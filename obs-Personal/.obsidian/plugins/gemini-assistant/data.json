@@ -1,0 +1,109 @@
+{
+  "apiKey": "AIzaSyD1W1zvs_gMonBvWmi03cwxvHgUwjm3drQ",
+  "model": "gemini-pro",
+  "prompts": [
+    {
+      "display": "Tóm tắt (document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 100,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Hãy tóm tắt ngắn 5 ý chính theo các yêu cầu sau:\nTóm tắt 5 ý chính.\nTạo các liên kết wiki cho mỗi ý chính",
+      "type": "generative"
+    },
+    {
+      "display": "Tóm tắt (selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 100,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Hãy tóm tắt ngắn 5 ý chính theo các yêu cầu sau:\nTóm tắt 5 ý chính.\nTạo các liên kết wiki cho mỗi ý chính",
+      "type": "generative"
+    },
+    {
+      "display": "Viết lại (Selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 100,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "viết lại đoạn văn này với ngôn ngữ đơn giản và dễ hiểu hơn không? Nếu nội dung vẫn khó hiểu, bạn có thể thêm ví dụ hoặc giải thích để làm rõ hơn không? ",
+      "type": "generative"
+    },
+    {
+      "display": "Tìm từ khóa (Document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1000,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Hãy tìm 5 từ khóa và viết hashtag tương ứng với mỗi từ khóa, kèm theo wiki link. Các từ khóa, hashtag, và wiki link cần được ngăn cách nhau bằng dấu gạch ngang ( - ).",
+      "type": "generative"
+    },
+    {
+      "display": "Viết lại (Document)",
+      "scope": "DOCUMENT",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1000,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "viết lại đoạn văn này với ngôn ngữ đơn giản và dễ hiểu, bạn đóng vai trò là một chuyên gia viết ghi chú trong Obsidian với 5 năm kinh nghiệm. Hãy viết lại đoạn văn với các yêu cầu sau:\n\nNội dung: Viết lại đoạn văn bằng ngôn ngữ rõ ràng và dễ hiểu.\nWiki link: Tạo các liên kết wiki tới các ghi chú liên quan trong Obsidian.\nTags: Thêm các tags phù hợp với nội dung của đoạn văn.\nKeywords: Chèn các từ khóa quan trọng và liên quan trong nội dung.",
+      "type": "generative"
+    },
+    {
+      "display": "Viết nội dung (selection)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1000,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Dựa vào ghi chú đã chọn, bạn đóng vai trò là một chuyên gia viết ghi chú trong Obsidian với 5 năm kinh nghiệm. Hãy tạo ghi chú với các yêu cầu sau:\n\nTiêu đề: Bao gồm tiêu đề ngắn gọn từ nội dung ghi chú đã chọn\nNội dung: Bao gồm thông tin chi tiết và rõ ràng từ ghi chú đã chọn.\nLinks: Tạo các liên kết wiki tới các ghi chú liên quan trong Obsidian.\nKeywords: thêm các từ khóa (tối giản)cần thiết để quản lý và tìm kiếm dễ dàng hơn\nTags: Thêm các tag cần thiết và ý nghĩa để quản lý và tìm kiếm dễ dàng hơn.",
+      "type": "generative"
+    }
+  ],
+  "chat": {
+    "model": "gemini-pro",
+    "config": {
+      "topK": 100,
+      "topP": 1,
+      "temperature": 0.9,
+      "outputTokenLimit": 2048,
+      "maxOutputTokens": 2048,
+      "inputTokenLimit": 30720
+    },
+    "type": "chat"
+  },
+  "saftyThreshold": "HARM_BLOCK_THRESHOLD_UNSPECIFIED"
+}

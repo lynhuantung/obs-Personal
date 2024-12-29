@@ -1,0 +1,329 @@
+{
+  "main": {
+    "id": "f272e999d55476af",
+    "type": "split",
+    "children": [
+      {
+        "id": "973bb00c719b67a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fce180f760a49eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2ba4cd25cc72a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fa1d1ffd240aa16",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d897d15b263aa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91ea0f5f7cc6bb54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f73733ebf6ce86d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2275386aac97799",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "db08bf2a26f6b74e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "452f8daacddc2fc1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "right": {
+    "id": "b4716a1b82e52f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "14defbff1cd632f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e32d961597a25347",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "990f82205a2896ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2523b90180e6ae4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fe232073a035f38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9855288ba93368e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0b36a27d565fae58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a36b0252c045e82a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224436,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "06935e59fbeec1f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "bbad2d4043751d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eab1fec0e741d7e2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b8af37bb8f75ba6",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "gemini-assistant:New Gemini chat": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a2ba4cd25cc72a3f",
+  "lastOpenFiles": [
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 8 - How to Train Your Observation.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/0.INDEX.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+    "TungLy/2. RESOURCE/Học Hỏi/Leonardo da Vinci.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 6 - Peg System of Memory.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 5 - Uses of the Peg and Link Systems.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 4 - Interest in Memory.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 3 - Test Your Memory.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 2 - Habit Is Memory.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/test.md",
+    "TungLy/1. Projects/Books/test/test.md",
+    "TungLy/1. Projects/Books/test",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Practical Exercises in Observation.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 10 - Remembering Playing Cards.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory-merged.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Summary Groups.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 4 - Ghi nhớ thông tin cá nhân và các mối quan hệ.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 3 - Ứng dụng hệ thống ghi nhớ vào thực tế.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 2 - Các kỹ thuật hệ thống ghi nhớ.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 1 - Cơ bản về quan sát và thói quen ghi nhớ.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 27 - Continual Improvement.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 26 - Use the Systems.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 25 - Memory Demonstrations.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 22 - Amaze Your Friends.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 24 - Remembering Anniversaries, Birthdays, and Other Important Dates.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory",
+    "TungLy/1. Projects/Books",
+    "Untitled.canvas",
+    "TungLy/0. Daily/2024-Aug-35",
+    "TungLy/0. Daily/20240831",
+    "TungLy/0. Daily/book",
+    "TungLy/4. VISUAL NOTES/Mindmap",
+    "TungLy/1. Projects/Others",
+    "TungLy/1. Projects/OPA",
+    "TungLy/1. Projects/MonthlyReport",
+    "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
+    "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
+    "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
+    "src/Pasted image 20240529135954.png",
+    "src/Pasted image 20240526231415.png",
+    "src/Pasted image 20240602132840.png",
+    "src/Pasted image 20230810083336.png",
+    "src/Pasted image 20240531153815.png",
+    "src/Pasted image 20240530153204.png",
+    "src/Pasted image 20240529140030.png",
+    "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_1208/TimePhoto_20230812_111957.jpg",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_1208/TimePhoto_20230812_120640.jpg",
+    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002164.jpg",
+    "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
+    "TungLy/4. VISUAL NOTES/Plan.canvas",
+    "Demo Vault 2/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
+    "Demo Vault 2/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
+    "Demo Vault 2/4. VISUAL NOTES/Plan.canvas"
+  ]
+}

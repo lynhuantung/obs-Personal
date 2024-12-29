@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#saasMeeting  ",
+      "color": {
+        "a": 1,
+        "rgb": 6184150
+      }
+    },
+    {
+      "query": "tag:#daily  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084290
+      }
+    },
+    {
+      "query": "tag:#secondBrain  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9755234456828566,
+  "close": true
+}
