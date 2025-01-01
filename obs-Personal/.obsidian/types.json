@@ -4,6 +4,9 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "date",
-    "members": "multitext"
+    "members": "multitext",
+    "dg-publish": "checkbox",
+    "dg-home": "checkbox",
+    "public": "checkbox"
   }
 }

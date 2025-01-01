@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1 - How Keen Is Your Observation"
             }
           },
           {
@@ -27,14 +29,31 @@
               "type": "markdown",
               "state": {
                 "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1 - How Keen Is Your Observation"
+            }
+          },
+          {
+            "id": "cfe5cae94378fdb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TungLy/2. RESOURCE/template/New notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "New notes"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +73,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +90,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +100,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -85,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -95,7 +122,9 @@
             "state": {
               "type": "empty",
               "state": {},
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -117,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -128,7 +159,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -137,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "file": "TungLy/2. RESOURCE/template/New notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +178,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for New notes"
             }
           },
           {
@@ -154,10 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "file": "TungLy/2. RESOURCE/template/New notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from New notes"
             }
           },
           {
@@ -166,8 +203,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md"
-              }
+                "file": "TungLy/2. RESOURCE/template/New notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of New notes"
             }
           }
         ]
@@ -182,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "file": "TungLy/2. RESOURCE/template/New notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,7 +247,9 @@
                   "scale": 0.7132754626224436,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of New notes"
             }
           },
           {
@@ -216,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -230,7 +273,9 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -238,7 +283,9 @@
             "type": "leaf",
             "state": {
               "type": "mindmap",
-              "state": {}
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of Chapter 1 - How Keen Is Your Observation"
             }
           }
         ],
@@ -251,6 +298,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -264,38 +312,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "gemini-assistant:New Gemini chat": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a2ba4cd25cc72a3f",
+  "active": "cfe5cae94378fdb9",
   "lastOpenFiles": [
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 8 - How to Train Your Observation.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/0.INDEX.md",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
-    "TungLy/2. RESOURCE/Học Hỏi/Leonardo da Vinci.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 6 - Peg System of Memory.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 5 - Uses of the Peg and Link Systems.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 4 - Interest in Memory.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 3 - Test Your Memory.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 2 - Habit Is Memory.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/test.md",
-    "TungLy/1. Projects/Books/test/test.md",
-    "TungLy/1. Projects/Books/test",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Practical Exercises in Observation.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 10 - Remembering Playing Cards.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory-merged.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Summary Groups.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Peg System.md",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 4 - Ghi nhớ thông tin cá nhân và các mối quan hệ.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 24 - Remembering Anniversaries, Birthdays, and Other Important Dates.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 16 - What's in a Name.md",
+    "TungLy/0. Daily/Untitled.md",
+    "TungLy/2. RESOURCE/template/Digital garden template.md",
+    "TungLy/0. Daily/2024-Aug-35/2024-08-31 100620.md",
+    "TungLy/2. RESOURCE/template/New notes.md",
+    "TungLy/2. RESOURCE/template/Index Note.md",
+    "TungLy/2. RESOURCE/template/Daily Notes.md",
+    "TungLy/0. Daily/Test.md",
+    "Getting started.md",
+    "Obsidian Help.md",
+    "src/Pasted image 20250101220039.png",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Vocabulary.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Names.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Faces.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Abstract Information.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Summary Groups.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Remembering Scripts and Anecdotes.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Practical Exercises in Observation.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Overview of Observation.md",
+    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 3 - Ứng dụng hệ thống ghi nhớ vào thực tế.md",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 2 - Các kỹ thuật hệ thống ghi nhớ.md",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 1 - Cơ bản về quan sát và thói quen ghi nhớ.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 27 - Continual Improvement.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 26 - Use the Systems.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 25 - Memory Demonstrations.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 22 - Amaze Your Friends.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 24 - Remembering Anniversaries, Birthdays, and Other Important Dates.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md",
+    "TungLy/1. Projects/Books/test",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory",
     "TungLy/1. Projects/Books",
     "Untitled.canvas",
@@ -319,7 +369,6 @@
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_1208/TimePhoto_20230812_111957.jpg",
     "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_1208/TimePhoto_20230812_120640.jpg",
-    "TungLy/1. Projects/SaaS - VnR/xmind/Hình ảnh/Meeting_2608/Hop2608_1000002164.jpg",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",
     "Demo Vault 2/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
