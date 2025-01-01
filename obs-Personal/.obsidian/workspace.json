@@ -28,32 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - How Keen Is Your Observation"
-            }
-          },
-          {
-            "id": "cfe5cae94378fdb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TungLy/2. RESOURCE/template/New notes.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "New notes"
+              "title": "Xây dựng bộ não thứ hai"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TungLy/2. RESOURCE/template/New notes.md",
+                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New notes"
+              "title": "Backlinks for Xây dựng bộ não thứ hai"
             }
           },
           {
@@ -189,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TungLy/2. RESOURCE/template/New notes.md",
+                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New notes"
+              "title": "Outgoing links from Xây dựng bộ não thứ hai"
             }
           },
           {
@@ -203,10 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TungLy/2. RESOURCE/template/New notes.md"
+                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of New notes"
+              "title": "Outline of Xây dựng bộ não thứ hai"
             }
           }
         ]
@@ -221,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/2. RESOURCE/template/New notes.md",
+                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,12 +229,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224436,
+                  "scale": 0.7132754626224438,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of New notes"
+              "title": "Graph of Xây dựng bộ não thứ hai"
             }
           },
           {
@@ -285,7 +270,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Chapter 1 - How Keen Is Your Observation"
+              "title": "Mind Map of Xây dựng bộ não thứ hai"
             }
           }
         ],
@@ -293,8 +278,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5,
-    "collapsed": true
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,46 +300,46 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "cfe5cae94378fdb9",
+  "active": "a2ba4cd25cc72a3f",
   "lastOpenFiles": [
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Peg System.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 4 - Ghi nhớ thông tin cá nhân và các mối quan hệ.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 24 - Remembering Anniversaries, Birthdays, and Other Important Dates.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 16 - What's in a Name.md",
-    "TungLy/0. Daily/Untitled.md",
-    "TungLy/2. RESOURCE/template/Digital garden template.md",
-    "TungLy/0. Daily/2024-Aug-35/2024-08-31 100620.md",
-    "TungLy/2. RESOURCE/template/New notes.md",
-    "TungLy/2. RESOURCE/template/Index Note.md",
-    "TungLy/2. RESOURCE/template/Daily Notes.md",
-    "TungLy/0. Daily/Test.md",
-    "Getting started.md",
-    "Obsidian Help.md",
+    "Node Link/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
+    "Node Link/Ghi chú mạng lưới/Thuyết lan truyền kích hoạt.md",
+    "Node Link/Ghi chú mạng lưới/Thuyet lan truyền kích hoạt.md",
+    "Node Link/Ghi chú mạng lưới/Tái tạo văn bản infranodus.md",
+    "Node Link/Ghi chú mạng lưới/Spread activation theory.md",
+    "Node Link/Ghi chú mạng lưới/Ngưỡng kích hoạt.md",
+    "Node Link/Ghi chú mạng lưới/Não bộ thiên tài.md",
+    "Node Link/Ghi chú mạng lưới/lemmatization.md",
+    "Node Link/Ghi chú mạng lưới/Infranodus-13102024.md",
+    "Node Link/Ghi chú mạng lưới/Infranodus ví dụ.md",
+    "Node Link/Ghi chú mạng lưới/Infranodus và graph view.md",
+    "Node Link/Ghi chú mạng lưới/InfraNodus 1.md",
+    "Node Link/Ghi chú mạng lưới/Infranodus - cơ chế.md",
+    "Node Link/Ghi chú mạng lưới/InfraNodus.md",
+    "Node Link/Ghi chú mạng lưới/Infranidus ví dụ.md",
+    "Node Link/Hệ sinh thái ao cá/Cá trong ao.md",
+    "Node Link/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
+    "Node Link/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
+    "Node Link/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
+    "Node Link/Khoa hoc than kinh/Hình-thành-nơron.md",
+    "Node Link/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
+    "Node Link/Khoa hoc than kinh/Củng-cố-nơron.md",
+    "Node Link/Não bộ tổng quan/Thuy_truoc_tran.md",
+    "Node Link/Não bộ tổng quan/Thuy_tran.md",
+    "Node Link/Não bộ tổng quan/Thuy_thai_duong.md",
+    "Node Link/Não bộ tổng quan/Thuy_dinh.md",
+    "Node Link/Khoa hoc than kinh",
+    "Node Link/Não bộ tổng quan",
+    "Node Link/Ghi chú mạng lưới",
+    "Node Link/Quả Táo",
+    "Node Link/New folder",
+    "Node Link/Hệ sinh thái ao cá",
+    "Node Link",
     "src/Pasted image 20250101220039.png",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Vocabulary.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Names.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Faces.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Techniques for Remembering Abstract Information.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Summary Groups.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Remembering Scripts and Anecdotes.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Practical Exercises in Observation.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Overview of Observation.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 3 - Ứng dụng hệ thống ghi nhớ vào thực tế.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 2 - Các kỹ thuật hệ thống ghi nhớ.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Nhóm 1 - Cơ bản về quan sát và thói quen ghi nhớ.md",
     "TungLy/1. Projects/Books/test",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory",
     "TungLy/1. Projects/Books",
     "Untitled.canvas",
-    "TungLy/0. Daily/2024-Aug-35",
-    "TungLy/0. Daily/20240831",
-    "TungLy/0. Daily/book",
-    "TungLy/4. VISUAL NOTES/Mindmap",
-    "TungLy/1. Projects/Others",
-    "TungLy/1. Projects/OPA",
-    "TungLy/1. Projects/MonthlyReport",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",

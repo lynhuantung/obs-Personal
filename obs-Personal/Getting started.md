@@ -1,3 +1,9 @@
+---
+dg-publish: true
+dg-home: true
+---
+
+
 # 01 Getting started
 
 
