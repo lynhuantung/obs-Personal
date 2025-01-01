@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Xây dựng bộ não thứ hai"
+              "title": "InfraNodus-cont"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[dg-home:false]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Xây dựng bộ não thứ hai"
+              "title": "Backlinks for InfraNodus-cont"
             }
           },
           {
@@ -174,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Xây dựng bộ não thứ hai"
+              "title": "Outgoing links from InfraNodus-cont"
             }
           },
           {
@@ -188,10 +188,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md"
+                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Xây dựng bộ não thứ hai"
+              "title": "Outline of InfraNodus-cont"
             }
           }
         ]
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Xây dựng bộ não thứ hai"
+              "title": "Graph of InfraNodus-cont"
             }
           },
           {
@@ -270,7 +270,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Xây dựng bộ não thứ hai"
+              "title": "Mind Map of InfraNodus-cont"
             }
           }
         ],
@@ -302,32 +302,32 @@
   },
   "active": "a2ba4cd25cc72a3f",
   "lastOpenFiles": [
-    "Node Link/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
-    "Node Link/Ghi chú mạng lưới/Thuyết lan truyền kích hoạt.md",
     "Node Link/Ghi chú mạng lưới/Thuyet lan truyền kích hoạt.md",
+    "Node Link/Ghi chú mạng lưới/lan truyền kích hoạt.md",
+    "Node Link/Não bộ tổng quan/Tfrc.md",
+    "Node Link/Não bộ tổng quan/Synapse.md",
+    "Node Link/Não bộ tổng quan/Qua_trinh_phat_trien_nao.md",
+    "Node Link/Não bộ tổng quan/Noron.md",
+    "Node Link/Não bộ tổng quan/Nao_Bo_Tong_Quan.md",
+    "Node Link/Não bộ tổng quan/Nam_thuy_nao.md",
+    "Node Link/Não bộ tổng quan/AFRC.md",
+    "Node Link/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
+    "Node Link/Khoa hoc than kinh/Hình-thành-nơron.md",
+    "Node Link/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
+    "Node Link/Khoa hoc than kinh/Củng-cố-nơron.md",
+    "Node Link/Hệ sinh thái ao cá/Nước.md",
+    "Node Link/Hệ sinh thái ao cá/Côn trùng.md",
+    "Node Link/Hệ sinh thái ao cá/Cây cỏ trong ao.md",
+    "Node Link/Hệ sinh thái ao cá/Cá trong ao.md",
+    "Node Link/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
+    "Node Link/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
+    "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+    "Node Link/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
     "Node Link/Ghi chú mạng lưới/Tái tạo văn bản infranodus.md",
     "Node Link/Ghi chú mạng lưới/Spread activation theory.md",
     "Node Link/Ghi chú mạng lưới/Ngưỡng kích hoạt.md",
     "Node Link/Ghi chú mạng lưới/Não bộ thiên tài.md",
     "Node Link/Ghi chú mạng lưới/lemmatization.md",
-    "Node Link/Ghi chú mạng lưới/Infranodus-13102024.md",
-    "Node Link/Ghi chú mạng lưới/Infranodus ví dụ.md",
-    "Node Link/Ghi chú mạng lưới/Infranodus và graph view.md",
-    "Node Link/Ghi chú mạng lưới/InfraNodus 1.md",
-    "Node Link/Ghi chú mạng lưới/Infranodus - cơ chế.md",
-    "Node Link/Ghi chú mạng lưới/InfraNodus.md",
-    "Node Link/Ghi chú mạng lưới/Infranidus ví dụ.md",
-    "Node Link/Hệ sinh thái ao cá/Cá trong ao.md",
-    "Node Link/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
-    "Node Link/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
-    "Node Link/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
-    "Node Link/Khoa hoc than kinh/Hình-thành-nơron.md",
-    "Node Link/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
-    "Node Link/Khoa hoc than kinh/Củng-cố-nơron.md",
-    "Node Link/Não bộ tổng quan/Thuy_truoc_tran.md",
-    "Node Link/Não bộ tổng quan/Thuy_tran.md",
-    "Node Link/Não bộ tổng quan/Thuy_thai_duong.md",
-    "Node Link/Não bộ tổng quan/Thuy_dinh.md",
     "Node Link/Khoa hoc than kinh",
     "Node Link/Não bộ tổng quan",
     "Node Link/Ghi chú mạng lưới",

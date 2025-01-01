@@ -5,7 +5,7 @@
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
-  "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "theme": "{\"name\":\"Dark Clarity\",\"author\":\"chenbihao\",\"repo\":\"chenbihao/obsidian-theme-dark-clarity\",\"screenshot\":\"screenshot.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/chenbihao/obsidian-theme-dark-clarity/HEAD/theme.css\"}",
   "faviconPath": "",
   "useFullResolutionImages": true,
   "noteSettingsIsInitialized": true,
