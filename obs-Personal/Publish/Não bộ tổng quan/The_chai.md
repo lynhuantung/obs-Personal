@@ -11,5 +11,5 @@ Cấu trúc kết nối hai bán cầu não, cho phép trao đổi thông tin qu
 
 **Liên kết:**
 - [[AFRC]]
-- [[Nam_Thuy_Nao]]
-- [[Qua_Trinh_Phat_Trien_Nao]]
+- [[Nam_thuy_nao]]
+- [[Qua_trinh_phat_trien_nao]]

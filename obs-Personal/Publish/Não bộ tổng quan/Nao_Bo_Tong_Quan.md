@@ -4,16 +4,16 @@ dg-home: false
 ---
 # Não Bộ Tổng Quan
 
-Não bộ con người là một "vũ trụ" phức tạp với khoảng [[Daily/Noron|100 tỷ nơ-ron]] kết nối qua hàng ngàn tỷ [[Synapse|khớp thần kinh]]. Sự phát triển và chức năng của não gắn liền với nhiều khái niệm, từ các chỉ số ẩn dụ như [[TFRC]] và [[AFRC]] đến các cấu trúc giải phẫu như [[Nam_Thuy_Nao|năm thuỳ não]] và [[The_Chai|thể chai]].
+Não bộ con người là một "vũ trụ" phức tạp với khoảng [[Daily/Noron|100 tỷ nơ-ron]] kết nối qua hàng ngàn tỷ [[Synapse|khớp thần kinh]]. Sự phát triển và chức năng của não gắn liền với nhiều khái niệm, từ các chỉ số ẩn dụ như [[Tfrc]] và [[AFRC]] đến các cấu trúc giải phẫu như [[Nam_thuy_nao|năm thuỳ não]] và [[The_chai|thể chai]].
 
 ## Liên kết chính
-- [[TFRC]]
+- [[Tfrc]]
 - [[AFRC]]
 - [[Học hỏi/Não bộ tổng quan/Noron]]
 - [[Synapse]]
-- [[Nam_Thuy_Nao]]
-- [[The_Chai]]
-- [[Qua_Trinh_Phat_Trien_Nao]]
+- [[Nam_thuy_nao]]
+- [[The_chai]]
+- [[Qua_trinh_phat_trien_nao]]
 
 ---
 Bản giao hưởng của trí tuệ: TFRC, AFRC, 100 tỷ nơ-ron và 5 thùy não

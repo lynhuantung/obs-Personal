@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md",
+                "file": "Publish/Notes.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "InfraNodus-cont"
+              "title": "Notes"
             }
           }
         ],
@@ -206,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md",
+                "file": "Publish/Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,7 +234,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of InfraNodus-cont"
+              "title": "Graph of Notes"
             }
           },
           {
@@ -270,7 +270,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of InfraNodus-cont"
+              "title": "Mind Map of Notes"
             }
           }
         ],
@@ -296,45 +296,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "gemini-assistant:New Gemini chat": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "a2ba4cd25cc72a3f",
   "lastOpenFiles": [
-    "Node Link/Ghi chú mạng lưới/Thuyet lan truyền kích hoạt.md",
-    "Node Link/Ghi chú mạng lưới/lan truyền kích hoạt.md",
-    "Node Link/Não bộ tổng quan/Tfrc.md",
-    "Node Link/Não bộ tổng quan/Synapse.md",
-    "Node Link/Não bộ tổng quan/Qua_trinh_phat_trien_nao.md",
-    "Node Link/Não bộ tổng quan/Noron.md",
-    "Node Link/Não bộ tổng quan/Nao_Bo_Tong_Quan.md",
-    "Node Link/Não bộ tổng quan/Nam_thuy_nao.md",
-    "Node Link/Não bộ tổng quan/AFRC.md",
-    "Node Link/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
-    "Node Link/Khoa hoc than kinh/Hình-thành-nơron.md",
-    "Node Link/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
-    "Node Link/Khoa hoc than kinh/Củng-cố-nơron.md",
-    "Node Link/Hệ sinh thái ao cá/Nước.md",
-    "Node Link/Hệ sinh thái ao cá/Côn trùng.md",
-    "Node Link/Hệ sinh thái ao cá/Cây cỏ trong ao.md",
-    "Node Link/Hệ sinh thái ao cá/Cá trong ao.md",
-    "Node Link/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
-    "Node Link/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
-    "Node Link/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
-    "Node Link/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
-    "Node Link/Ghi chú mạng lưới/Tái tạo văn bản infranodus.md",
-    "Node Link/Ghi chú mạng lưới/Spread activation theory.md",
-    "Node Link/Ghi chú mạng lưới/Ngưỡng kích hoạt.md",
-    "Node Link/Ghi chú mạng lưới/Não bộ thiên tài.md",
-    "Node Link/Ghi chú mạng lưới/lemmatization.md",
-    "Node Link/Khoa hoc than kinh",
-    "Node Link/Não bộ tổng quan",
-    "Node Link/Ghi chú mạng lưới",
-    "Node Link/Quả Táo",
+    "Publish/Getting started.md",
+    "Publish/Notes.md",
+    "README.md",
+    "Publish/Ghi chú mạng lưới/InfraNodus-cont.md",
+    "Publish/Ghi chú mạng lưới/Thuyet lan truyền kích hoạt.md",
+    "Publish/Ghi chú mạng lưới/lan truyền kích hoạt.md",
+    "Publish/Não bộ tổng quan/Tfrc.md",
+    "Publish/Não bộ tổng quan/Synapse.md",
+    "Publish/Não bộ tổng quan/Qua_trinh_phat_trien_nao.md",
+    "Publish/Não bộ tổng quan/Noron.md",
+    "Publish/Não bộ tổng quan/Nao_Bo_Tong_Quan.md",
+    "Publish/Não bộ tổng quan/Nam_thuy_nao.md",
+    "Publish/Não bộ tổng quan/AFRC.md",
+    "Publish/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
+    "Publish/Khoa hoc than kinh/Hình-thành-nơron.md",
+    "Publish/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
+    "Publish/Khoa hoc than kinh/Củng-cố-nơron.md",
+    "Publish/Hệ sinh thái ao cá/Nước.md",
+    "Publish/Hệ sinh thái ao cá/Côn trùng.md",
+    "Publish/Hệ sinh thái ao cá/Cây cỏ trong ao.md",
+    "Publish/Hệ sinh thái ao cá/Cá trong ao.md",
+    "Publish/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
+    "Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
+    "Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+    "Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
+    "Publish/Ghi chú mạng lưới/Tái tạo văn bản infranodus.md",
+    "Publish/Khoa hoc than kinh",
+    "Publish/Não bộ tổng quan",
+    "Publish/Ghi chú mạng lưới",
+    "Publish/Quả Táo",
     "Node Link/New folder",
-    "Node Link/Hệ sinh thái ao cá",
-    "Node Link",
+    "Publish/Hệ sinh thái ao cá",
+    "Publish",
     "src/Pasted image 20250101220039.png",
     "TungLy/1. Projects/Books/test",
     "TungLy/1. Projects/Books/How to Develop A Super-Power Memory",

@@ -8,10 +8,10 @@ dg-home: false
 
 - AFRC cao ⇒ Não bộ linh hoạt, phối hợp thông tin tốt.
 - AFRC phụ thuộc vào môi trường kích thích, giáo dục, trải nghiệm sống.
-- AFRC và [[TFRC]] bổ trợ nhau: TFRC là nền tảng, AFRC là cách vận hành nền tảng đó.
+- AFRC và [[Tfrc]] bổ trợ nhau: TFRC là nền tảng, AFRC là cách vận hành nền tảng đó.
 
 **Liên kết:**
-- [[TFRC]]
+- [[Tfrc]]
 - [[Học hỏi/Não bộ tổng quan/Noron|Noron]]
 - [[Synapse]]
-- Phát triển qua các giai đoạn: xem [[Qua_Trinh_Phat_Trien_Nao]]
+- Phát triển qua các giai đoạn: xem [[Qua_trinh_phat_trien_nao]]

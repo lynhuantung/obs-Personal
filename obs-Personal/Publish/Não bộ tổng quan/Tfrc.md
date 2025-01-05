@@ -13,4 +13,4 @@ dg-home: false
 **Liên kết:**
 - Liên hệ với [[AFRC]]
 - Có liên quan tới sự dồi dào của [[Daily/Noron]]
-- Vai trò quan trọng trong các giai đoạn phát triển não: xem [[Qua_Trinh_Phat_Trien_Nao]]
+- Vai trò quan trọng trong các giai đoạn phát triển não: xem [[Qua_trinh_phat_trien_nao]]
