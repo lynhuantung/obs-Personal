@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 dg-home: false
+Liên kết:
+  - "[[Noron]]"
 ---
 ## Độ Dẻo Synapse
 

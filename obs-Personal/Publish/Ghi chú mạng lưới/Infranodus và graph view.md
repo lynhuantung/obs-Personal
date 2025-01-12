@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 dg-home: false
+Liên kết:
+  - "[[Ứng dụng secondbrain vào obsidian]]"
 ---
 Infranodus và Obsidian đều là những công cụ mạnh mẽ để trực quan hóa mối liên kết giữa các ghi chú, nhưng chúng có những cách tiếp cận và đặc điểm khác nhau về mặt ứng dụng. Dưới đây là sự so sánh giữa Infranodus và Obsidian Graph View dựa trên các yếu tố quan trọng:
 

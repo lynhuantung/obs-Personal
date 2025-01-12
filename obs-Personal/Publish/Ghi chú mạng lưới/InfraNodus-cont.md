@@ -3,8 +3,6 @@ dg-publish: true
 dg-home: false
 ---
 
-
-
 5. Trực quan hóa:
 
 Hiển thị đồ thị: Mạng lưới được hiển thị dưới dạng đ
@@ -98,3 +96,6 @@ Tóm lại, InfraNodus hoạt động bằng cách:
 
 Nếu bạn cần thêm thông tin hoặc muốn biết cụ thể hơn về cách áp dụng InfraNodus cho một trường hợp nhất định, hãy cho tôi biết để tôi có thể hỗ trợ bạn tốt hơn.
 
+
+# Liên kết
+[[InfraNodus]]

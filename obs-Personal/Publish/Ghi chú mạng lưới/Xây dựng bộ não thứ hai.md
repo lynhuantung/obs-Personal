@@ -1,6 +1,10 @@
 ---
 dg-publish: true
 dg-home: false
+Liên kết:
+  - "[[Ứng dụng secondbrain vào obsidian]]"
+  - "[[Não bộ thiên tài]]"
+  - "[[Spread activation theory]]"
 ---
 ### 10 Phương Pháp Xây Dựng Bộ Não Thứ Hai
 

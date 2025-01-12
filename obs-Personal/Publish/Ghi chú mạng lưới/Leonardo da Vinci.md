@@ -1,4 +1,9 @@
-
+---
+dg-publish: true
+dg-home: false
+Liên kết:
+  - "[[Não bộ thiên tài]]"
+---
 Dưới đây là tóm tắt của nội dung "Giải Mã Công Thức Học Tập Đột Phá Để Trở Thành Thiên Tài" trong 5 điểm chính:
 
 1. **Leonardo da Vinci đa tài và tò mò**: Leonardo không chỉ là một họa sĩ thiên tài mà còn là một nhà phát minh, kỹ sư, nhà khoa học, và nhiều lĩnh vực khác. Sự tò mò không ngừng thúc đẩy ông khám phá thế giới xung quanh với những câu hỏi đa dạng về tự nhiên và con người.

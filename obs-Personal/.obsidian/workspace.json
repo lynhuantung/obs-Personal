@@ -26,10 +26,15 @@
             "id": "a2ba4cd25cc72a3f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xây dựng bộ não thứ hai"
             }
           },
           {
@@ -38,27 +43,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Getting started.md",
+                "file": "Publish/Các ghi chú.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting started"
+              "title": "Các ghi chú"
             }
           },
           {
-            "id": "cfb0a5c16c99e5a8",
+            "id": "526f734c1289b0c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Publish/Ghi chú mạng lưới/Ngưỡng kích hoạt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ngưỡng kích hoạt"
+            }
+          },
+          {
+            "id": "6882d16aa819fdef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -321,11 +341,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "597a3372d6a7036b",
+  "active": "6882d16aa819fdef",
   "lastOpenFiles": [
+    "Publish/Ghi chú mạng lưới/InfraNodus-cont.md",
+    "Publish/Ghi chú mạng lưới/Infranodus-cont2.md",
+    "TungLy/2. RESOURCE/BookMark/BookMark Chrome.md",
+    "Publish/Ghi chú mạng lưới/Leonardo da Vinci.md",
+    "Publish/Ghi chú mạng lưới/Não bộ thiên tài.md",
+    "Publish/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
+    "Publish/Khoa hoc than kinh/Hình-thành-nơron.md",
+    "Publish/Ghi chú mạng lưới/Infranodus và graph view.md",
+    "Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+    "Publish/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
+    "Publish/Ghi chú mạng lưới/Thuyet lan truyền kích hoạt.md",
+    "Publish/Ghi chú mạng lưới/Spread activation theory.md",
+    "Publish/Ghi chú mạng lưới/Ngưỡng kích hoạt.md",
+    "Publish/Ghi chú mạng lưới/lan truyền kích hoạt.md",
+    "Publish/Các ghi chú.md",
+    "Publish/Getting started.md",
     "Publish/Notes.md",
     "Publish/Não bộ tổng quan/AFRC.md",
-    "Publish/Các ghi chú.md",
     "Publish/Não bộ tổng quan/Thùy Trước Trán.md",
     "Publish/Não bộ tổng quan/Thùy trán.md",
     "Publish/Não bộ tổng quan/Thùy thái dương.md",
@@ -334,21 +369,6 @@
     "Publish/Não bộ tổng quan/Thể chai.md",
     "Publish/Não bộ tổng quan/Tfrc.md",
     "Publish/Não bộ tổng quan/Synapse.md",
-    "Publish/Ghi chú mạng lưới/Infranodus - cơ chế.md",
-    "Publish/Não bộ tổng quan/Quá trình phát triển não.md",
-    "Publish/Não bộ tổng quan/Noron.md",
-    "Publish/Não bộ tổng quan/Não bộ tổng quan.md",
-    "Publish/Não bộ tổng quan/Năm Thùy Não.md",
-    "Publish/Hệ sinh thái ao cá/Cá trong ao.md",
-    "Publish/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
-    "Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
-    "Publish/Ghi chú mạng lưới/Tái tạo văn bản infranodus.md",
-    "Publish/Getting started.md",
-    "TungLy/2. RESOURCE/Học Hỏi/Leonardo da Vinci.md",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
-    "Publish/Ghi chú mạng lưới/Infranodus ví dụ.md",
-    "README.md",
-    "Publish/Ghi chú mạng lưới/InfraNodus-cont.md",
     "Publish/Khoa hoc than kinh",
     "Publish/Não bộ tổng quan",
     "Publish/Ghi chú mạng lưới",
