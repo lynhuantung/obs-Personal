@@ -2,7 +2,7 @@
 dg-publish: true
 dg-home: false
 ---
-# Thể Chai (Corpus Callosum)
+Thể Chai (Corpus Callosum)
 
 Cấu trúc kết nối hai bán cầu não, cho phép trao đổi thông tin qua lại.
 
@@ -11,5 +11,5 @@ Cấu trúc kết nối hai bán cầu não, cho phép trao đổi thông tin qu
 
 **Liên kết:**
 - [[AFRC]]
-- [[Nam_thuy_nao]]
-- [[Qua_trinh_phat_trien_nao]]
+- [[Năm Thùy Não]]
+- [[Quá trình phát triển não]]

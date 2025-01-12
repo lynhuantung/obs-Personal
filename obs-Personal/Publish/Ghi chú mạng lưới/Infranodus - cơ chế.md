@@ -81,3 +81,10 @@ Tóm lại, cơ chế hoạt động của InfraNodus bao gồm các bước ch�
 
 InfraNodus đặc biệt phù hợp với những người làm nghiên cứu, viết lách, và những ai cần khám phá các mối quan hệ phức tạp trong dữ liệu văn bản.
 
+
+# Liên kết
+[[InfraNodus]]
+[[Infranidus ví dụ]]
+[[Infranodus ví dụ]]
+[[Infranodus và graph view]]
+[[Tái tạo văn bản infranodus]]

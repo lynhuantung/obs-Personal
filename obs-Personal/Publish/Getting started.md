@@ -3,79 +3,77 @@ dg-publish: true
 dg-home: true
 ---
 
+# 01 Bắt đầu
 
-# 01 Getting started
+- [[Các ghi chú|Danh sách các ghi chú]] 
 
+Việc thiết lập ban đầu chỉ mất vài phút, nhưng sau khi hoàn tất, bạn sẽ có một "digital garden" (vườn kỹ thuật số) mà bạn hoàn toàn kiểm soát và có thể tùy chỉnh theo ý muốn. Đây là điều làm cho digital garden trở nên thú vị.
 
-
-The initial setup takes a couple of minutes, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.
-
-1. Download and install the community plugin [Digital Garden](obsidian://show-plugin?id=digitalgarden) in Obsidian..
-
----
-
-2. Next, you will need a GitHub account. If you don't have this, create one [here](https://github.com/signup).
+1. Tải xuống và cài đặt plugin cộng đồng [Digital Garden](obsidian://show-plugin?id=digitalgarden) trong Obsidian.
 
 ---
 
-3. You'll also need a Vercel account. You can sign up using your GitHub account [here](https://vercel.com/signup)
+2. Tiếp theo, bạn cần một tài khoản GitHub. Nếu chưa có, tạo tài khoản [tại đây](https://github.com/signup).
 
 ---
 
-4. Open [this repo](https://github.com/oleeskild/digitalgarden), and click the blue "Deploy to Vercel" button.
+3. Bạn cũng cần một tài khoản Vercel. Đăng ký bằng tài khoản GitHub [tại đây](https://vercel.com/signup).
+
+---
+
+4. Mở [repo này](https://github.com/oleeskild/digitalgarden), và nhấn vào nút màu xanh "Deploy to Vercel".
 
 ![CleanShot 2023-01-22 at 23.38.57@2x.png](https://dg-docs.ole.dev/img/user/img/CleanShot%202023-01-22%20at%2023.38.57@2x.png)  
-This should open Vercel and create a copy of this repository in your GitHub accont. Give it a fitting name like 'my-digital-garden'. Follow the steps in Vercel to publish your site to the internet.
+Điều này sẽ mở Vercel và tạo một bản sao của repository này trong tài khoản GitHub của bạn. Đặt một tên phù hợp, chẳng hạn như 'my-digital-garden'. Thực hiện theo các bước trong Vercel để xuất bản trang web của bạn lên internet.
 
 ---
 
-5. Next you need to create an access token to your GitHub Account. This acts as a sort of password so that the plugin can add new notes to your GitHub repository on your behalf. Go to [this page](https://github.com/settings/tokens/new?scopes=repo) while logged in to GitHub. The correct settings should already be applied. (If you don't want to generate this every few months, choose the "No expiration" option.) Click the "Generate token" button, and copy the token you are presented with on the next page.
+5. Tiếp theo, bạn cần tạo một mã truy cập (access token) cho tài khoản GitHub của mình. Mã này giống như mật khẩu để plugin có thể thêm các ghi chú mới vào repository GitHub của bạn. Truy cập [trang này](https://github.com/settings/tokens/new?scopes=repo) trong khi đã đăng nhập vào GitHub. Các cài đặt đúng đã được áp dụng sẵn. (Nếu bạn không muốn tạo mã này lại mỗi vài tháng, chọn tùy chọn "No expiration"). Nhấn vào nút "Generate token", và sao chép mã xuất hiện ở trang tiếp theo.
 
-A more secure option  
+**Lựa chọn bảo mật hơn**
 
-GitHub has recently launced a new beta feature, where you can target what repositories the token has access to. This is currently the most secure way to use the plugin. See [Fine grained access token](https://dg-docs.ole.dev/advanced/fine-grained-access-token/) for details on how to generate this.
-
----
-
-6. Open Obsidian and the settings for "Digital Garden" and fill in your GitHub username, the name of the repo with your notes which you created in step 3, and lastly paste in your token.  
-    ![CleanShot 2023-10-12 at 17.06.27@2x.png](https://dg-docs.ole.dev/img/user/CleanShot%202023-10-12%20at%2017.06.27@2x.png)
-    
-    ---
-    
-7. Now, let's publish your first note! Create a new note in Obsidian. Now add two new properties to the note.
-    
-
-Help! How do I add a property to a note  
-
-- A checkbox named `dg-publish`
-- A checkbox named `dg-home`  
-    Toggle both checkboxes so that they are in the `checked` state.  
-    It should look something like this:  
-    ![CleanShot 2023-10-12 at 16.59.10@2x.png](https://dg-docs.ole.dev/img/user/CleanShot%202023-10-12%20at%2016.59.10@2x.png)
-
-**This does two things:**
-
-- The dg-home setting tells the plugin that this should be your home page or entry into your digital garden. (It only needs to be added to _one_ note, not every note you'll publish).
-    
-- The dg-publish setting tells the plugin that this note should be published to your digital garden. Notes without this setting will not be published. (In other terms: Every note you publish will need this property.)
-    
+GitHub gần đây đã giới thiệu một tính năng beta mới, cho phép bạn giới hạn mã truy cập chỉ đến các repository cụ thể. Đây là cách an toàn nhất để sử dụng plugin. Xem chi tiết tại [Fine grained access token](https://dg-docs.ole.dev/advanced/fine-grained-access-token/).
 
 ---
 
-8. Open your command pallete by pressing CTRL+P on Windows/Linux (CMD+P on Mac) and find the "Digital Garden: Publish Single Note" command. Press enter.
+6. Mở Obsidian, vào phần cài đặt "Digital Garden", và điền tên người dùng GitHub, tên của repository chứa ghi chú mà bạn đã tạo ở bước 3, và cuối cùng dán mã truy cập của bạn vào.
+
+![CleanShot 2023-10-12 at 17.06.27@2x.png](https://dg-docs.ole.dev/img/user/CleanShot%202023-10-12%20at%2017.06.27@2x.png)
 
 ---
 
-9. Go to your site's URL which you should find on [Vercel](https://vercel.com/dashboard). If nothing shows up yet, wait a minute and refresh. Your note should now appear.
+7. Bây giờ, hãy xuất bản ghi chú đầu tiên của bạn! Tạo một ghi chú mới trong Obsidian. Sau đó thêm hai thuộc tính mới vào ghi chú.
+
+**Cách thêm thuộc tính vào ghi chú**
+
+- Một hộp kiểm tên `dg-publish`.
+- Một hộp kiểm tên `dg-home`.  
+  Chuyển cả hai hộp kiểm sang trạng thái "đã chọn".  
+  Nó sẽ trông giống như sau:  
+  ![CleanShot 2023-10-12 at 16.59.10@2x.png](https://dg-docs.ole.dev/img/user/CleanShot%202023-10-12%20at%2016.59.10@2x.png)
+
+**Điều này có hai tác dụng:**
+
+- Cài đặt `dg-home` cho plugin biết rằng đây là trang chủ hoặc trang vào "digital garden" của bạn. (Chỉ cần thêm thuộc tính này vào một ghi chú duy nhất, không cần thêm vào tất cả các ghi chú bạn xuất bản).
+
+- Cài đặt `dg-publish` cho plugin biết rằng ghi chú này cần được xuất bản lên "digital garden" của bạn. Các ghi chú không có thuộc tính này sẽ không được xuất bản. (Nói cách khác: Mỗi ghi chú bạn muốn xuất bản đều cần thuộc tính này).
 
 ---
 
-Congratulations, you now have your own personal part of the internet in the form of a digital garden, for free 🎉.
+8. Mở bảng lệnh (Command Palette) bằng cách nhấn CTRL+P trên Windows/Linux (CMD+P trên Mac) và tìm lệnh "Digital Garden: Publish Single Note". Nhấn Enter.
 
-You can now start adding links as you usually would in Obisidan, with double square brackets, to the note that you just published.
+---
 
-Remember to also publish the notes your are linking to as this will not happen automatically. This is by design. You are always in control of what notes you actually want to publish. If you did not publish a linked note, the link will simply lead to a site telling the user that this note does not exist.
+9. Truy cập URL trang web của bạn, bạn có thể tìm thấy URL này trên [Vercel](https://vercel.com/dashboard). Nếu chưa thấy gì, đợi một chút và làm mới trang. Ghi chú của bạn sẽ xuất hiện.
 
-If you want to unpublish a note, without deleting the note from your vault, simply uncheck or remove the dg-publish property in the note, open the [publication center](https://dg-docs.ole.dev/getting-started/02-commands/#open-publication-center) and click the "Delete notes from garden" button.
+---
 
-Now that you are up and running, you can take a look at the available [commands](https://dg-docs.ole.dev/getting-started/02-commands/) or the various available [note settings](https://dg-docs.ole.dev/getting-started/03-note-settings/). Or maybe you want to [change your theme](https://dg-docs.ole.dev/getting-started/04-appearance-settings/)?
+**Chúc mừng!** Bạn đã có một phần internet cá nhân của riêng mình dưới dạng "digital garden", hoàn toàn miễn phí 🎉.
+
+Giờ đây, bạn có thể bắt đầu thêm liên kết như thông thường trong Obsidian, với dấu ngoặc vuông kép, vào ghi chú bạn vừa xuất bản.
+
+Nhớ rằng bạn cũng cần xuất bản các ghi chú mà bạn đang liên kết đến vì việc này sẽ không được thực hiện tự động. Đây là thiết kế có chủ đích. Bạn luôn kiểm soát ghi chú nào bạn muốn xuất bản. Nếu bạn không xuất bản ghi chú được liên kết, liên kết đó sẽ dẫn đến một trang thông báo rằng ghi chú này không tồn tại.
+
+Nếu bạn muốn gỡ bỏ ghi chú khỏi "digital garden" mà không xóa nó khỏi vault, chỉ cần bỏ chọn hoặc xóa thuộc tính `dg-publish` trong ghi chú, mở [publication center](https://dg-docs.ole.dev/getting-started/02-commands/#open-publication-center), và nhấn nút "Delete notes from garden".
+
+Khi bạn đã sẵn sàng, bạn có thể xem các [lệnh có sẵn](https://dg-docs.ole.dev/getting-started/02-commands/) hoặc các [cài đặt ghi chú](https://dg-docs.ole.dev/getting-started/03-note-settings/). Hoặc bạn có thể muốn [thay đổi giao diện](https://dg-docs.ole.dev/getting-started/04-appearance-settings/).
