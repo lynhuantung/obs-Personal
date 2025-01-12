@@ -35,6 +35,11 @@ Việc thiết lập ban đầu chỉ mất vài phút, nhưng sau khi hoàn t�
 **Lựa chọn bảo mật hơn**
 
 GitHub gần đây đã giới thiệu một tính năng beta mới, cho phép bạn giới hạn mã truy cập chỉ đến các repository cụ thể. Đây là cách an toàn nhất để sử dụng plugin. Xem chi tiết tại [Fine grained access token](https://dg-docs.ole.dev/advanced/fine-grained-access-token/).
+![[Pasted image 20250112222534.png]]
+Chọn repository của bạn ở bước trên
+Quyền github:
+ - **Contents** : Read and write
+ - **Pull requests** : Read and write 
 
 ---
 
