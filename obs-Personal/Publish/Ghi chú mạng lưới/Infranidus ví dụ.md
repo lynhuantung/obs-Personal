@@ -2,6 +2,8 @@
 dg-publish: true
 dg-home: false
 ---
+# Infranidus ví dụ
+---
 
 Để làm rõ hơn cách Infranodus hoạt động, mình sẽ đưa ra một ví dụ đơn giản nhé.
 

@@ -2,7 +2,10 @@
 dg-publish: true
 dg-home: false
 ---
-Dĩ nhiên! Để thực hiện phân tích đoạn văn và thể hiện từ khóa liên kết theo cách mà InfraNodus làm, sau đó thể hiện lại trong dạng ghi chú Obsidian, chúng ta sẽ thực hiện các bước sau đây:
+# Infranodus ví dụ
+---
+
+Để thực hiện phân tích đoạn văn và thể hiện từ khóa liên kết theo cách mà InfraNodus làm, sau đó thể hiện lại trong dạng ghi chú Obsidian, chúng ta sẽ thực hiện các bước sau đây:
 
 1. Đoạn văn mẫu:
 

@@ -1,11 +1,10 @@
 ---
 dg-publish: true
 dg-home: false
-Liên kết:
-  - "[[Ứng dụng secondbrain vào obsidian]]"
-  - "[[Não bộ thiên tài]]"
-  - "[[Spread activation theory]]"
 ---
+# Xây dựng bộ não thứ hai
+---
+
 ### 10 Phương Pháp Xây Dựng Bộ Não Thứ Hai
 
 1. **Borrow Creativity (Mượn ý tưởng)**: Kết nối những ý tưởng mới từ kiến thức đã học.
@@ -23,3 +22,8 @@ Liên kết:
 Video cung cấp các phương pháp xây dựng bộ não thứ hai để cải thiện khả năng ghi nhớ, sáng tạo và hoàn thành công việc. Các phương pháp này dễ hiểu và có thể áp dụng ngay vào cuộc sống.
 
 Bạn muốn tìm hiểu chi tiết thêm về phương pháp nào trong số này không?
+
+# Liên kết:
+[[Ứng dụng secondbrain vào obsidian]]
+[[Não bộ thiên tài]]
+[[Spread activation theory]]

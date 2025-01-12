@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: false
 ---
+# Ứng dụng secondbrain vào obsidian
+---
+
 ### Ứng Dụng Các Phương Pháp Vào Obsidian
 
 1. **Borrow Creativity (Mượn ý tưởng)**:

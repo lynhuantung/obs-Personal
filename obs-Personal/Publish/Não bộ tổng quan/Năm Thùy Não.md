@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: false
 ---
+# Năm Thùy Não
+---
+
 Vỏ não người chia làm 5 thuỳ chính, mỗi thuỳ đảm nhận chức năng riêng:
 
 - [[Thùy Trước Trán|Thùy Trước Trán]] (Prefrontal): Chức năng điều hành cao cấp, lập kế hoạch, kiểm soát hành vi.
@@ -12,8 +15,3 @@ Vỏ não người chia làm 5 thuỳ chính, mỗi thuỳ đảm nhận chức 
 
 Sự phối hợp nhịp nhàng giữa các thuỳ não góp phần nâng cao [[AFRC]].
 
-**Liên kết:**
-- [[Tfrc]]
-- [[AFRC]]
-- [[Thể chai|Thể chai]] (kết nối hai bán cầu não)
-- [[Quá trình phát triển não|Quá trình phát triển não]]

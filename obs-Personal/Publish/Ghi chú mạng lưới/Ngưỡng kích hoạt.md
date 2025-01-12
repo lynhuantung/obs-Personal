@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: false
 ---
+# Ngưỡng kích hoạt
+---
+
 **Ngưỡng kích hoạt (Activation Threshold)** là một khái niệm quan trọng trong Thuyết Lan Truyền Kích Hoạt, liên quan đến cách các khái niệm trong bộ nhớ được kích hoạt và trở nên có ý nghĩa trong quá trình xử lý thông tin. Để hiểu rõ hơn về khái niệm này, hãy xem xét các điểm chính sau đây:
 
 ### 1. **Định nghĩa Ngưỡng Kích Hoạt:**

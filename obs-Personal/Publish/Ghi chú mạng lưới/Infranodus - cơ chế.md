@@ -2,6 +2,8 @@
 dg-publish: true
 dg-home: false
 ---
+# Infranodus - cơ chế
+---
 
 Sau khi có dữ liệu văn bản, InfrInfraNodus là một công cụ phân tích mạng lưới văn bản, giúp người dùng khám phá các mẫu và mối liên hệ tiềm ẩn trong dữ liệu văn bản. Cơ chế hoạt động của InfraNodus dựa trên việc sử dụng lý thuyết mạng (graph theory) để biểu diễn các từ và khái niệm trong văn bản dưới dạng một mạng lưới. Dưới đây là mô tả chi tiết về cơ chế hoạt động của InfraNodus:
 

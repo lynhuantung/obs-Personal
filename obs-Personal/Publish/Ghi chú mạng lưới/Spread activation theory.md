@@ -3,6 +3,9 @@ dg-publish: true
 dg-home: false
 Link: https://www.facebook.com/share/v/SMyCaqCtkyd52Ecr/?mibextid=jmPrMh
 ---
+# Spread activation theory
+---
+
 Spread activation theory là một lý thuyết trong tâm lý học nhận thức, đặc biệt là trong lĩnh vực liên quan đến bộ nhớ và xử lý thông tin. Thuyết này mô tả cách mà thông tin được lưu trữ trong trí nhớ và cách mà các mảnh thông tin liên kết với nhau trong tâm trí. Ý tưởng cơ bản của lý thuyết là khi một khái niệm cụ thể trong trí nhớ được kích hoạt, nó sẽ kích hoạt các khái niệm liên quan khác theo một cách "lan tỏa" (spread activation).
 
 ### Nguyên lý cơ bản của Spread Activation Theory:
@@ -45,3 +48,7 @@ Hãy tưởng tượng bộ não của chúng ta giống như một căn phòng 
 - **Ngưỡng kích hoạt** là mức độ khó dễ để nhớ ra một thông tin nào đó. Nếu bạn thường xuyên học và ôn lại một điều gì đó, ngưỡng kích hoạt của thông tin đó sẽ thấp, giúp bạn dễ dàng nhớ lại hơn. Ngược lại, nếu bạn ít khi sử dụng hoặc học một thông tin nào đó, ngưỡng kích hoạt sẽ cao hơn, khiến bạn khó nhớ lại.
 
 Giống như việc bạn phải bấm nút nhiều lần để bật đèn, bạn cần phải học và ôn bài nhiều lần để ghi nhớ tốt hơn!
+
+
+# Liên kết
+https://www.facebook.com/share/v/SMyCaqCtkyd52Ecr/?mibextid=jmPrMh

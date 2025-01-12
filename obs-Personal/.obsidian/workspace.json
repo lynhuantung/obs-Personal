@@ -38,47 +38,37 @@
             }
           },
           {
-            "id": "597a3372d6a7036b",
+            "id": "1568ac58abcb121c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Các ghi chú.md",
+                "file": "Publish/Não bộ tổng quan/Não bộ tổng quan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Các ghi chú"
+              "title": "Não bộ tổng quan"
             }
           },
           {
-            "id": "526f734c1289b0c5",
+            "id": "67cf2666f51651b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Ghi chú mạng lưới/Ngưỡng kích hoạt.md",
+                "file": "Publish/Não bộ tổng quan/Noron.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ngưỡng kích hoạt"
-            }
-          },
-          {
-            "id": "6882d16aa819fdef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Noron"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -246,7 +236,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/2. RESOURCE/Học Hỏi/Leonardo da Vinci.md",
+                "file": "Publish/Não bộ tổng quan/Noron.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -274,7 +264,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Leonardo da Vinci"
+              "title": "Graph of Noron"
             }
           },
           {
@@ -310,7 +300,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Leonardo da Vinci"
+              "title": "Mind Map of Noron"
             }
           }
         ],
@@ -318,8 +308,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5,
-    "collapsed": true
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -341,26 +330,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6882d16aa819fdef",
+  "active": "67cf2666f51651b2",
   "lastOpenFiles": [
-    "Publish/Ghi chú mạng lưới/InfraNodus-cont.md",
-    "Publish/Ghi chú mạng lưới/Infranodus-cont2.md",
-    "TungLy/2. RESOURCE/BookMark/BookMark Chrome.md",
-    "Publish/Ghi chú mạng lưới/Leonardo da Vinci.md",
-    "Publish/Ghi chú mạng lưới/Não bộ thiên tài.md",
-    "Publish/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
-    "Publish/Khoa hoc than kinh/Hình-thành-nơron.md",
-    "Publish/Ghi chú mạng lưới/Infranodus và graph view.md",
-    "Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
-    "Publish/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
-    "Publish/Ghi chú mạng lưới/Thuyet lan truyền kích hoạt.md",
-    "Publish/Ghi chú mạng lưới/Spread activation theory.md",
-    "Publish/Ghi chú mạng lưới/Ngưỡng kích hoạt.md",
-    "Publish/Ghi chú mạng lưới/lan truyền kích hoạt.md",
-    "Publish/Các ghi chú.md",
-    "Publish/Getting started.md",
     "Publish/Notes.md",
-    "Publish/Não bộ tổng quan/AFRC.md",
+    "Publish/Getting started.md",
+    "Publish/Các ghi chú.md",
+    "Publish/Quả Táo/Táo Và Sức Khỏe.md",
+    "Publish/Quả Táo/Táo Trong Thần Thoại.md",
+    "Publish/Quả Táo/Táo Trong Công Nghệ.md",
+    "Publish/Quả Táo/Dinh Dưỡng Của Quả Táo.md",
+    "Publish/Quả Táo/Công Thức Món Ăn Từ Táo.md",
+    "Publish/Quả Táo/Các Giống Táo.md",
+    "Publish/Quả Táo/1.Quả Táo.md",
     "Publish/Não bộ tổng quan/Thùy Trước Trán.md",
     "Publish/Não bộ tổng quan/Thùy trán.md",
     "Publish/Não bộ tổng quan/Thùy thái dương.md",
@@ -369,6 +350,14 @@
     "Publish/Não bộ tổng quan/Thể chai.md",
     "Publish/Não bộ tổng quan/Tfrc.md",
     "Publish/Não bộ tổng quan/Synapse.md",
+    "Publish/Não bộ tổng quan/Quá trình phát triển não.md",
+    "Publish/Não bộ tổng quan/Noron.md",
+    "Publish/Não bộ tổng quan/Não bộ tổng quan.md",
+    "Publish/Não bộ tổng quan/Năm Thùy Não.md",
+    "Publish/Não bộ tổng quan/AFRC.md",
+    "Publish/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
+    "Publish/Khoa hoc than kinh/Hình-thành-nơron.md",
+    "Publish/Khoa hoc than kinh/Độ-Dẻo-synapse.md",
     "Publish/Khoa hoc than kinh",
     "Publish/Não bộ tổng quan",
     "Publish/Ghi chú mạng lưới",

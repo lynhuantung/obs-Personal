@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: false
 ---
+# Infranidus
+---
+
 InfraNodus là một công cụ trực quan và mạnh mẽ được thiết kế để giúp người dùng phân tích và khám phá mối quan hệ giữa các ý tưởng, thông tin hoặc nội dung văn bản. Nó hoạt động bằng cách tạo ra mạng lưới từ văn bản, giúp người dùng nhìn thấy những mối liên kết tiềm ẩn và tìm ra các mẫu hoặc "khoảng trống" để phát triển ý tưởng mới. Dưới đây là một số điểm chính về InfraNodus mà có thể sẽ hữu ích cho bạn:
 
 1. Cơ chế hoạt động

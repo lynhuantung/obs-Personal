@@ -1,10 +1,10 @@
 ---
 dg-publish: true
 dg-home: false
-Liên kết:
-  - "[[Noron]]"
 ---
 # Hình Thành Nơron
+---
+
 
 ## Kích Thích Ban Đầu
 
@@ -16,7 +16,7 @@ Liên kết:
 ## Tạo Liên Kết Mới
 
 - **Kích Hoạt Nơron**: Các nơron trong các vùng này sẽ kích hoạt và bắt đầu tạo ra các liên kết synapse mới.
-  - Ví dụ: Nơron trong vỏ não vị giác liên kết với nơron trong vùng vỏ não thùy đảo để xử lý vị giác.
+  - Ví dụ: [[Noron|Nơron]] trong vỏ não vị giác liên kết với nơron trong vùng vỏ não thùy đảo để xử lý vị giác.
 
 ## Liên Kết Với Ký Ức và Cảm Xúc
 

@@ -2,8 +2,10 @@
 dg-publish: true
 dg-home: true
 ---
+# Getting started
+---
 
-# 01 Bắt đầu
+## 01 Bắt đầu
 
 - [[Các ghi chú|Danh sách các ghi chú]] 
 

@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: false
 ---
+# Tái tạo văn bản infranodus
+---
+
 Sau khi đã xây dựng mạng lưới từ khóa từ một đoạn văn bằng công cụ như InfraNodus hoặc Obsidian, bước tiếp theo là tái tạo hoặc tóm tắt đoạn văn dựa trên các từ khóa và mối liên kết đã xác định. Dưới đây là cách thực hiện:
 
 1. Phân loại và sắp xếp từ khóa

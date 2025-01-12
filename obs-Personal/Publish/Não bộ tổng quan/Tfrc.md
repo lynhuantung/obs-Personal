@@ -2,7 +2,8 @@
 dg-publish: true
 dg-home: false
 ---
-TFRC (Total Fingerprint Ridge Count)
+# TFRC (Total Fingerprint Ridge Count)
+---
 
 **TFRC** là một khái niệm ẩn dụ đại diện cho tiềm năng nền tảng của não, tương tự như số lượng "nơ-ron sẵn sàng" hoặc khả năng tiếp nhận thông tin ban đầu. Nó giúp hình dung số lượng và "mật độ" tài nguyên não bộ.
 

@@ -2,6 +2,9 @@
 dg-publish: true
 dg-home: false
 ---
+# Infranodus-cont2
+---
+
 - Infranodus là một công cụ phân tích mạng ngữ nghĩa, giúp người dùng khám phá và hình dung mối quan hệ giữa các ý tưởng trong văn bản. Đây là một ứng dụng dựa trên đồ thị, cho phép người dùng hiểu sâu hơn về các mẫu ẩn trong dữ liệu văn bản, bài viết hoặc ghi chú cá nhân thông qua việc tạo ra đồ thị các khái niệm liên kết với nhau.
 
 Infranodus chủ yếu sử dụng trong các lĩnh vực nghiên cứu, phân tích dữ liệu, và thậm chí trong quá trình tư duy sáng tạo. Dưới đây là những điểm chính về công cụ này được trình bày bằng tiếng Việt:

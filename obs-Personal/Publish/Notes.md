@@ -2,7 +2,8 @@
 dg-publish: false
 dg-home: false
 ---
-
+# Notes
+---
 
 Trang ghi chú đã publish
 ---
