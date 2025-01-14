@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[dg-home:false]",
+                "query": "[dg-home:]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,7 +142,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,7 +301,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Getting started"
+              "title": "Mind Map of Search"
             }
           }
         ],
@@ -330,7 +331,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "67cf2666f51651b2",
+  "active": "0f73733ebf6ce86d",
   "lastOpenFiles": [
     "src/Pasted image 20250112222534.png",
     "src/Pasted image 20250112222514.png",

@@ -4,14 +4,14 @@ dg-home: true
 ---
 # Getting started
 ---
-
+- [Node Link Mobile](https://m-nodelink.netlify.app/)
 ## 01 Bắt đầu
 
 - [[Các ghi chú|Danh sách các ghi chú]] 
 
 Việc thiết lập ban đầu chỉ mất vài phút, nhưng sau khi hoàn tất, bạn sẽ có một "digital garden" (vườn kỹ thuật số) mà bạn hoàn toàn kiểm soát và có thể tùy chỉnh theo ý muốn. Đây là điều làm cho digital garden trở nên thú vị.
 
-1. Tải xuống và cài đặt plugin cộng đồng [Digital Garden](obsidian://show-plugin?id=digitalgarden) trong Obsidian.
+1. Tải xuống và cài đặt plugin cộng đồng [Digital Garden](obsidian://show-plugin?id=digitalgarden) trong Obsidian!
 
 ---
 
