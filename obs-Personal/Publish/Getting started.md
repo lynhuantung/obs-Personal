@@ -5,6 +5,7 @@ dg-home: true
 # Getting started
 ---
 - [Node Link Mobile](https://m-nodelink.netlify.app/)
+- [[Simple-Page]]
 ## 01 Bắt đầu
 
 - [[Các ghi chú|Danh sách các ghi chú]] 

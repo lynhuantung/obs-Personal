@@ -8,6 +8,7 @@
     "dg-publish": "checkbox",
     "dg-home": "checkbox",
     "public": "checkbox",
-    "Liên kết": "multitext"
+    "Liên kết": "multitext",
+    "dg-show-local-graph": "text"
   }
 }

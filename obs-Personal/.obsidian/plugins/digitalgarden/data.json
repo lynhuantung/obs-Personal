@@ -18,7 +18,7 @@
   "showNoteIconInFileTree": false,
   "showNoteIconOnInternalLink": true,
   "showNoteIconOnBackLink": false,
-  "showCreatedTimestamp": true,
+  "showCreatedTimestamp": false,
   "createdTimestampKey": "",
   "showUpdatedTimestamp": true,
   "updatedTimestampKey": "",
