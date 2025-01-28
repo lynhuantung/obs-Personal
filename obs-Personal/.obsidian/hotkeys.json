@@ -271,5 +271,14 @@
       ],
       "key": "L"
     }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }

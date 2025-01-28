@@ -1,8 +1,8 @@
 ---
-title : <% tp.file.title %>
+title: 
 permalink: 
 feed: show
-date : <% tp.date.now("YYYY-MM-DD") %>
+date: "{{date}}"
 ---
 
 # 📚 Thông tin sách

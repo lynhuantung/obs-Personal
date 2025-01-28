@@ -1,9 +1,9 @@
 
 ## Báo cáo tuần
 
-**Tuần:** xx
+**Tuần:** {{date:WW}}
 
-**Ngày:** <% tp.date.now("YYYY-MM-DD") %>
+**Ngày:** {{date}}
 
 **Người báo cáo:**  TungLy
 

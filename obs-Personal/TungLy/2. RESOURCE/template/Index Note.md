@@ -1,9 +1,9 @@
 ---
-title : <% tp.file.title %>
+title: 
 permalink: 
 feed: show
 format: list
-date : <% tp.date.now("YYYY-MM-DD") %>
+date: "{{date}}"
 ---
 
 

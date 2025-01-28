@@ -34,7 +34,7 @@
     "dgShowBacklinks": false,
     "dgShowLocalGraph": true,
     "dgShowInlineTitle": false,
-    "dgShowFileTree": false,
+    "dgShowFileTree": true,
     "dgEnableSearch": true,
     "dgShowToc": false,
     "dgLinkPreview": true,

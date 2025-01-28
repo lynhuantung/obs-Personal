@@ -4,13 +4,13 @@ aliases:
 title: Biên bản họp
 tags:
   - "#meeting"
-date: 2024-06-02
+date: "{{date}}"
 members:
   - tungly
   - tiendang-BA
 ---
 
-## Biên bản họp: 02/06/2024
+## Biên bản họp: {{date}}
 
 ## Mục tiêu:
 1. Mục tiêu 1:

@@ -1,9 +1,9 @@
 ---
 title: 
-date: 2024-08-31
+date: "{{date}}"
 tags:
-  - "#book"
+  - "#books"
   - "#memory"
-  - "#How_to_Develop_A_Super_Power_Memory"
+  - "#book/How_to_Develop_A_Super_Power_Memory"
 Chương: Chương1
 ---

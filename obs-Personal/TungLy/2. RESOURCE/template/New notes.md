@@ -1,6 +1,9 @@
 ---
+Mã: "{{date:YYMMWWDD-01}}"
 aliases: 
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: "{{date}}"
+time: "{{date:HH:mm}}"
+Week: "{{date:WW}}"
 tags:
   - daily
 ---

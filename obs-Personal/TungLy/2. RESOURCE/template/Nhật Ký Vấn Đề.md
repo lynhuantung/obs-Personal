@@ -1,7 +1,7 @@
 ---
 Mã: Sys001
 aliases: 
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: "{{date}}"
 tags:
   - "#nhatkyvande"
 permalink: "[[0.Nhật Ký Vấn Đề]]"

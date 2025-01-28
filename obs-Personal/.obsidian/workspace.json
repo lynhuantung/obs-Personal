@@ -13,62 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Não bộ tổng quan/Synapse.md",
+                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synapse"
-            }
-          },
-          {
-            "id": "a2ba4cd25cc72a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Xây dựng bộ não thứ hai"
-            }
-          },
-          {
-            "id": "1568ac58abcb121c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publish/Não bộ tổng quan/Não bộ tổng quan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Não bộ tổng quan"
-            }
-          },
-          {
-            "id": "67cf2666f51651b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publish/Simple-Page.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Simple-Page"
+              "title": "Tư Duy Như Sherlock Holmes"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#clippings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,6 +62,19 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          },
+          {
+            "id": "b8ef9bddc76fd2ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,6 +108,26 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "1f76fac5ca315f9a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "69265c04939412e2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -164,19 +151,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "990f82205a2896ce",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
             }
           },
           {
@@ -218,13 +192,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node Link/Ghi chú mạng lưới/InfraNodus-cont.md"
+                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of InfraNodus-cont"
+              "title": "Outline of Tư Duy Như Sherlock Holmes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "0b36a27d565fae58",
@@ -236,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Publish/Simple-Page.md",
+                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -264,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Simple-Page"
+              "title": "Graph of Tư Duy Như Sherlock Holmes"
             }
           },
           {
@@ -300,7 +275,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Simple-Page"
+              "title": "Mind Map of Tư Duy Như Sherlock Holmes"
             }
           }
         ],
@@ -327,50 +302,53 @@
       "gemini-assistant:New Gemini chat": false,
       "templater-obsidian:Templater": false,
       "digitalgarden:Digital Garden Publication Center": false,
+      "zk-prefixer:Create new unique note": false,
+      "smart-random-note:Open Random Note from Search": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "67cf2666f51651b2",
+  "active": "fce180f760a49eb0",
   "lastOpenFiles": [
-    "Publish/Getting started.md",
-    "Publish/Notes.md",
-    "Publish/Simple-Page.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Cấu trúc thư mục.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/3.Tác giả.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/2.Nhà xuất bản.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/1. Người dịch.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/Daniel Smith.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/Nguyễn Hương - Người dịch.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/NXB Kim Đồng.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/0.Thông tin sách.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách",
+    "TungLy/1. Projects/Books/Tác giả",
+    "Publish/Giáo Dục/Bài tập về nhà.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes",
+    "TungLy/2. RESOURCE/BookMark/BookMark Chrome.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128.md",
+    "src/Obsidian go.md",
+    "TungLy/0. Daily/Clippings/dg-docs.ole.dev/Clippings-20250128.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app",
+    "TungLy/0. Daily/Clippings/dg-docs.ole.dev",
+    "TungLy/0. Daily/Clippings",
+    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app/Clippings-20250128.md",
+    "Clippings/Infranodus và graph view 2.md",
+    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app",
+    "TungLy/0. Daily/Clippings/Learning",
+    "Clippings/Infranodus và graph view 1.md",
+    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app/Clippings-nodelink.netlify.app-20250128 1.md",
+    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app/Clippings-nodelink.netlify.app-20250128.md",
+    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-nodelink.netlify.app-2025-01-28 1.md",
+    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-nodelink.netlify.app-2025-01-28.md",
+    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-Infranodus và graph view 1.md",
+    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-Infranodus và graph view.md",
+    "TungLy/0. Daily/Clippings/Content Customization/Clippings-Content Customization.md",
+    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view",
+    "TungLy/0. Daily/Clippings/Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh/Clippings-Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh.md",
+    "TungLy/0. Daily/Clippings/Content Customization",
+    "TungLy/0. Daily/Clippings/Learning/Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh/Clippings-Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh.md",
     "src/Pasted image 20250125072456.png",
-    "Publish/Các ghi chú.md",
     "src/Pasted image 20250112222534.png",
     "src/Pasted image 20250112222514.png",
-    "Publish/Não bộ tổng quan/Noron.md",
-    "Publish/Quả Táo/Táo Và Sức Khỏe.md",
-    "Publish/Quả Táo/Táo Trong Thần Thoại.md",
-    "Publish/Quả Táo/Táo Trong Công Nghệ.md",
-    "Publish/Quả Táo/Dinh Dưỡng Của Quả Táo.md",
-    "Publish/Quả Táo/Công Thức Món Ăn Từ Táo.md",
-    "Publish/Quả Táo/Các Giống Táo.md",
-    "Publish/Quả Táo/1.Quả Táo.md",
-    "Publish/Não bộ tổng quan/Thùy Trước Trán.md",
-    "Publish/Não bộ tổng quan/Thùy trán.md",
-    "Publish/Não bộ tổng quan/Thùy thái dương.md",
-    "Publish/Não bộ tổng quan/Thùy Đỉnh.md",
-    "Publish/Não bộ tổng quan/Thùy chẩm.md",
-    "Publish/Não bộ tổng quan/Thể chai.md",
-    "Publish/Não bộ tổng quan/Tfrc.md",
-    "Publish/Não bộ tổng quan/Synapse.md",
-    "Publish/Não bộ tổng quan/Quá trình phát triển não.md",
-    "Publish/Não bộ tổng quan/Não bộ tổng quan.md",
-    "Publish/Não bộ tổng quan/Năm Thùy Não.md",
-    "Publish/Não bộ tổng quan/AFRC.md",
-    "Publish/Khoa hoc than kinh/Khoa-hoc-than-kinh-index.md",
-    "Publish/Khoa hoc than kinh",
-    "Publish/Não bộ tổng quan",
-    "Publish/Ghi chú mạng lưới",
-    "Publish/Quả Táo",
-    "Node Link/New folder",
-    "Publish/Hệ sinh thái ao cá",
-    "Publish",
     "src/Pasted image 20250101220039.png",
-    "TungLy/1. Projects/Books/test",
-    "TungLy/1. Projects/Books/How to Develop A Super-Power Memory",
-    "TungLy/1. Projects/Books",
     "Untitled.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
