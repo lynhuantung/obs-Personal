@@ -13,14 +13,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
+                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Tư Duy Như Sherlock Holmes"
-            }
+              "title": "Ứng Dụng"
+            },
+            "group": "b64cfc6381e406e0"
+          }
+        ]
+      },
+      {
+        "id": "f376220a6e2bd1cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f2864fce9e7390d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Ứng Dụng"
+            },
+            "group": "b64cfc6381e406e0"
           }
         ]
       }
@@ -192,10 +237,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md"
+                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tư Duy Như Sherlock Holmes"
+              "title": "Outline of Ứng Dụng"
             }
           }
         ],
@@ -211,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
+                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,21 +270,21 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "showArrow": true,
+                  "textFadeMultiplier": -0.2,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224438,
+                  "collapse-forces": false,
+                  "centerStrength": 0.515625,
+                  "repelStrength": 2.5,
+                  "linkStrength": 0.385416666666667,
+                  "linkDistance": 348,
+                  "scale": 0.7132754626224439,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tư Duy Như Sherlock Holmes"
+              "title": "Graph of Ứng Dụng"
             }
           },
           {
@@ -275,7 +320,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Tư Duy Như Sherlock Holmes"
+              "title": "Mind Map of Ứng Dụng"
             }
           }
         ],
@@ -283,7 +328,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 431.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,42 +355,43 @@
   },
   "active": "fce180f760a49eb0",
   "lastOpenFiles": [
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Trích Dẫn.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tóm Tắt.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Nguyên Tắc Suy Luận.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Kỹ Năng Quan Sát.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Giới thiệu.md",
     "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Cấu trúc thư mục.md",
+    "Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
+    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
+    "src/Pasted image 20250128175825.png",
+    "TungLy/1. Projects/Books/Thông Tin Sách/Daniel Smith.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/0.Thông tin sách.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/2022 - Năm xuất bản.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/NXB Kim Đồng.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/Nguyễn Hương - Người dịch.md",
+    "TungLy/1. Projects/Books/Thông Tin Sách/4.Năm xuất bản.md",
     "TungLy/1. Projects/Books/Thông Tin Sách/3.Tác giả.md",
     "TungLy/1. Projects/Books/Thông Tin Sách/2.Nhà xuất bản.md",
     "TungLy/1. Projects/Books/Thông Tin Sách/1. Người dịch.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/Daniel Smith.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/Nguyễn Hương - Người dịch.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/NXB Kim Đồng.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/0.Thông tin sách.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 4.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 3.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 2.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 1.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128.md",
+    "TungLy/0. Daily/Clippings/nodelink.netlify.app",
+    "TungLy/0. Daily/Clippings",
+    "TungLy/0. Daily/Clippings/dg-docs.ole.dev/Clippings-20250128.md",
     "TungLy/1. Projects/Books/Thông Tin Sách",
     "TungLy/1. Projects/Books/Tác giả",
     "Publish/Giáo Dục/Bài tập về nhà.md",
     "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes",
     "TungLy/2. RESOURCE/BookMark/BookMark Chrome.md",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128.md",
-    "src/Obsidian go.md",
-    "TungLy/0. Daily/Clippings/dg-docs.ole.dev/Clippings-20250128.md",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app",
     "TungLy/0. Daily/Clippings/dg-docs.ole.dev",
-    "TungLy/0. Daily/Clippings",
-    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app/Clippings-20250128.md",
-    "Clippings/Infranodus và graph view 2.md",
     "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app",
     "TungLy/0. Daily/Clippings/Learning",
-    "Clippings/Infranodus và graph view 1.md",
-    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app/Clippings-nodelink.netlify.app-20250128 1.md",
-    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app/Clippings-nodelink.netlify.app-20250128.md",
-    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-nodelink.netlify.app-2025-01-28 1.md",
-    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-nodelink.netlify.app-2025-01-28.md",
-    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-Infranodus và graph view 1.md",
-    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view/Clippings-Infranodus và graph view.md",
-    "TungLy/0. Daily/Clippings/Content Customization/Clippings-Content Customization.md",
     "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view",
-    "TungLy/0. Daily/Clippings/Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh/Clippings-Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh.md",
     "TungLy/0. Daily/Clippings/Content Customization",
-    "TungLy/0. Daily/Clippings/Learning/Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh/Clippings-Đài Loan lên kế hoạch tiêu diệt 120.000 con cự đà xanh.md",
     "src/Pasted image 20250125072456.png",
     "src/Pasted image 20250112222534.png",
     "src/Pasted image 20250112222514.png",
@@ -358,7 +405,6 @@
     "src/Pasted image 20240602132840.png",
     "src/Pasted image 20230810083336.png",
     "src/Pasted image 20240531153815.png",
-    "src/Pasted image 20240530153204.png",
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",

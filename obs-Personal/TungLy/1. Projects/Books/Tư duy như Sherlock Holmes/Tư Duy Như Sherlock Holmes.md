@@ -1,18 +1,22 @@
 ---
+dg-publish: false
+dg-home: false
 title: 
 date: 2025-01-28
 tags:
   - book
   - books/tu-duy-nhu-sherlock-holmes
 Chương: 
-author: "[[Daniel Smith]]"
-Người dịch: Nguyên Hương
+Tác giả: "[[Daniel Smith]]"
+Người dịch: "[[Nguyễn Hương - Người dịch]]"
 NXB: "[[NXB Kim Đồng]]"
 ---
 # 🕵️‍♂️ Tư Duy Như Sherlock Holmes
+---
+![[Pasted image 20250128175825.png|400]]
 
 📖 **Tác giả:** [[Daniel Smith]]  
-📆 **Năm xuất bản:** 2022  
+📆 **Năm xuất bản:** [[2022 - Năm xuất bản|2022]]  
 📌 **Chủ đề:** Tư duy logic, quan sát, phân tích  
 
 ## 📌 Nội dung chính

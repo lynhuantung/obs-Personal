@@ -3,6 +3,11 @@
   "positionStyle": "top",
   "menuCommands": [
     {
+      "id": "graph:open-local",
+      "name": "Graph view: Open local graph",
+      "icon": "lucide-git-fork"
+    },
+    {
       "id": "editing-toolbar:editor-undo",
       "name": "undo editor",
       "icon": "undo-glyph"
@@ -287,8 +292,8 @@
   "cMenuNumRows": 12,
   "cMenuWidth": 610,
   "cMenuFontColor": "#2DC26B",
-  "cMenuBackgroundColor": "#d3f8b6",
-  "autohide": true,
+  "cMenuBackgroundColor": "rgba(240, 200, 0, 0.2)",
+  "autohide": false,
   "custom_bg1": "#FFB78B8C",
   "custom_bg2": "#CDF4698C",
   "custom_bg3": "#A0CCF68C",
