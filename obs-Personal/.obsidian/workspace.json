@@ -43,42 +43,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+                "file": "Publish/Books/0. Books.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Ứng dụng Building a Second Brain"
-            }
-          },
-          {
-            "id": "c5110b50a98524ae",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "0fdca73a0d0228d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ứng dụng Building a Second Brain"
+              "title": "0. Books"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "não không dùng để nhớ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+                "file": "Publish/Books/0. Books.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ứng dụng Building a Second Brain"
+              "title": "Outline of 0. Books"
             }
           },
           {
@@ -277,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+                "file": "Publish/Books/0. Books.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -305,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ứng dụng Building a Second Brain"
+              "title": "Graph of 0. Books"
             }
           },
           {
@@ -341,7 +316,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Ứng dụng Building a Second Brain"
+              "title": "Mind Map of 0. Books"
             }
           }
         ],
@@ -349,7 +324,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 431.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -373,37 +349,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0fdca73a0d0228d4",
+  "active": "9cedd702a7b1631b",
   "lastOpenFiles": [
-    "Publish/Books/Building a Second Brain/Tóm tắt Building a Second Brain.md",
-    "Publish/Books/Building a Second Brain/Cơ chế hoạt động.md",
-    "Publish/Books/Building a Second Brain/Cấu trúc sách building second brain.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật Zettelkasten.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật SCAMPER.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Hạn chế của bộ não sinh học.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Giới thiệu.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Ứng dụng thực tế.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Cấu trúc sách Bộ Não Thứ Hai.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Bộ não thứ hai.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kết luận.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 4 - Hiểu lầm, trở ngại và phương pháp luận.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tư duy ngược.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 2 - Xây dựng bộ nhớ kỹ thuật số.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những quan điểm sai lầm về bộ não thứ hai.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tóm tắt.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tầm quan trọng của trí nhớ kỹ thuật số.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những vấn đề liên quan đến trí nhớ con người.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những lợi ích khi xây dựng bộ não thứ hai.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Internet không phải là bộ não thứ hai.md",
+    "Publish/Books/0. Books.md",
+    "src/Pasted image 20250131134318.png",
+    "src/Pasted image 20250131134009.png",
+    "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+    "Publish/Books/Thông Tin Sách/Đồ Tử Bái.md",
+    "Publish/Books/Thông Tin Sách/Tiago Forte.md",
+    "Publish/Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai.md",
     "Publish/Books/Building a Second Brain/Nguồn gốc và Khái niệm.md",
     "Publish/Books/Building a Second Brain/Giới thiệu Building a Second Brain.md",
-    "Publish/Books/Building a Second Brain/Rút ra kết luận Building a Second Brain.md",
-    "Publish/Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai.md",
-    "Publish/Books/The PARA Method/Archives - Lưu trữ.md",
-    "Publish/Books/The PARA Method/Areas - Lĩnh vực.md",
-    "Publish/Books/The PARA Method/Cấu trúc sách.md",
-    "Publish/Books/The PARA Method/Giới thiệu.md",
-    "Publish/Books/The PARA Method/Projects - Dự án.md",
-    "Publish/Books/0. Books.md",
-    "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
-    "Publish/Books/Building a Second Brain/Trích dẫn Building a Second Brain.md",
-    "Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
-    "Publish/Books/Building a Second Brain/4 Vận dụng - Express.md",
-    "Publish/Books/Building a Second Brain/3 Chắt lọc - Distill.md",
-    "Publish/Books/Building a Second Brain/2 Sắp xếp - Organize.md",
-    "Publish/Books/Building a Second Brain/1 Thu nạp - Capture.md",
-    "Publish/Books/The PARA Method/Resources - Tài nguyên.md",
-    "Publish/Books/How to Develop A Super-Power Memory/Cấu trúc sách.md",
-    "Publish/Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai 1.md",
-    "Publish/Books/The PARA Method/Tóm Tắt.md",
+    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái",
     "src/Pasted image 20250131093233.png",
     "src/Pasted image 20250131093228.png",
-    "Publish/Books/The PARA Method/The PARA Method.md",
     "Publish/Books/Building a Second Brain",
-    "Publish/Books/The PARA Method/Trích Dẫn.md",
     "src/Pasted image 20250131082627.png",
     "src/Pasted image 20250131074747.png",
     "src/Pasted image 20250131073030.png",
@@ -418,9 +397,6 @@
     "Publish/Books/Tư duy như Sherlock Holmes",
     "TungLy/0. Daily/Clippings/dg-docs.ole.dev",
     "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app",
-    "TungLy/0. Daily/Clippings/Learning",
-    "src/Pasted image 20250125072456.png",
-    "src/Pasted image 20250112222534.png",
     "Untitled.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
