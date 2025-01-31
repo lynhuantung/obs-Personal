@@ -6,6 +6,7 @@ dg-home: true
 ---
 - [Node Link Mobile](https://m-nodelink.netlify.app/)
 - [[Simple-Page]]
+- [[0. Books|Sách]]
 ## 01 Bắt đầu
 
 - [[Các ghi chú|Danh sách các ghi chú]] 

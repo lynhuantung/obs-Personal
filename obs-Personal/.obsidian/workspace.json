@@ -13,61 +13,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
+                "file": "Publish/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Ứng Dụng"
-            },
-            "group": "b64cfc6381e406e0"
-          }
-        ]
-      },
-      {
-        "id": "f376220a6e2bd1cc",
-        "type": "tabs",
-        "children": [
+              "title": "Tư Duy Như Sherlock Holmes"
+            }
+          },
           {
-            "id": "8f2864fce9e7390d",
+            "id": "4b147e77795fa1ae",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "Publish/Books/The PARA Method/Resources - Tài nguyên.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Ứng Dụng"
-            },
-            "group": "b64cfc6381e406e0"
+              "icon": "lucide-file",
+              "title": "Resources - Tài nguyên"
+            }
+          },
+          {
+            "id": "9cedd702a7b1631b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ứng dụng Building a Second Brain"
+            }
+          },
+          {
+            "id": "c5110b50a98524ae",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
+            }
+          },
+          {
+            "id": "0fdca73a0d0228d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ứng dụng Building a Second Brain"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -98,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#clippings",
+                "query": "não không dùng để nhớ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,20 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "f2275386aac97799",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
             }
           },
           {
@@ -237,10 +241,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md"
+                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ứng Dụng"
+              "title": "Outline of Ứng dụng Building a Second Brain"
+            }
+          },
+          {
+            "id": "bd7a401d39ee3d60",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -256,14 +277,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
+                "file": "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -284,7 +305,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ứng Dụng"
+              "title": "Graph of Ứng dụng Building a Second Brain"
             }
           },
           {
@@ -320,7 +341,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of Ứng Dụng"
+              "title": "Mind Map of Ứng dụng Building a Second Brain"
             }
           }
         ],
@@ -328,8 +349,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5,
-    "collapsed": true
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -353,58 +373,58 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fce180f760a49eb0",
+  "active": "0fdca73a0d0228d4",
   "lastOpenFiles": [
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tư Duy Như Sherlock Holmes.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Trích Dẫn.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Tóm Tắt.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Nguyên Tắc Suy Luận.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Kỹ Năng Quan Sát.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Giới thiệu.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Cấu trúc thư mục.md",
-    "Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes/Ứng Dụng.md",
+    "Publish/Books/Building a Second Brain/Tóm tắt Building a Second Brain.md",
+    "Publish/Books/Building a Second Brain/Cơ chế hoạt động.md",
+    "Publish/Books/Building a Second Brain/Cấu trúc sách building second brain.md",
+    "Publish/Books/Building a Second Brain/Nguồn gốc và Khái niệm.md",
+    "Publish/Books/Building a Second Brain/Giới thiệu Building a Second Brain.md",
+    "Publish/Books/Building a Second Brain/Rút ra kết luận Building a Second Brain.md",
+    "Publish/Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai.md",
+    "Publish/Books/The PARA Method/Archives - Lưu trữ.md",
+    "Publish/Books/The PARA Method/Areas - Lĩnh vực.md",
+    "Publish/Books/The PARA Method/Cấu trúc sách.md",
+    "Publish/Books/The PARA Method/Giới thiệu.md",
+    "Publish/Books/The PARA Method/Projects - Dự án.md",
+    "Publish/Books/0. Books.md",
+    "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
+    "Publish/Books/Building a Second Brain/Trích dẫn Building a Second Brain.md",
+    "Publish/Ghi chú mạng lưới/Xây dựng bộ não thứ hai.md",
+    "Publish/Books/Building a Second Brain/4 Vận dụng - Express.md",
+    "Publish/Books/Building a Second Brain/3 Chắt lọc - Distill.md",
+    "Publish/Books/Building a Second Brain/2 Sắp xếp - Organize.md",
+    "Publish/Books/Building a Second Brain/1 Thu nạp - Capture.md",
+    "Publish/Books/The PARA Method/Resources - Tài nguyên.md",
+    "Publish/Books/How to Develop A Super-Power Memory/Cấu trúc sách.md",
+    "Publish/Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai 1.md",
+    "Publish/Books/The PARA Method/Tóm Tắt.md",
+    "src/Pasted image 20250131093233.png",
+    "src/Pasted image 20250131093228.png",
+    "Publish/Books/The PARA Method/The PARA Method.md",
+    "Publish/Books/Building a Second Brain",
+    "Publish/Books/The PARA Method/Trích Dẫn.md",
+    "src/Pasted image 20250131082627.png",
+    "src/Pasted image 20250131074747.png",
+    "src/Pasted image 20250131073030.png",
+    "src/Pasted image 20250131073027.png",
+    "Publish/Books/The PARA Method",
+    "src/Pasted image 20250130234505.png",
     "src/Pasted image 20250128175825.png",
-    "TungLy/1. Projects/Books/Thông Tin Sách/Daniel Smith.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/0.Thông tin sách.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/2022 - Năm xuất bản.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/NXB Kim Đồng.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/Nguyễn Hương - Người dịch.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/4.Năm xuất bản.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/3.Tác giả.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/2.Nhà xuất bản.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách/1. Người dịch.md",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 4.md",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 3.md",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 2.md",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128 1.md",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app/Clippings-20250128.md",
     "TungLy/0. Daily/Clippings/nodelink.netlify.app",
     "TungLy/0. Daily/Clippings",
-    "TungLy/0. Daily/Clippings/dg-docs.ole.dev/Clippings-20250128.md",
-    "TungLy/1. Projects/Books/Thông Tin Sách",
+    "Publish/Books/Thông Tin Sách",
     "TungLy/1. Projects/Books/Tác giả",
-    "Publish/Giáo Dục/Bài tập về nhà.md",
-    "TungLy/1. Projects/Books/Tư duy như Sherlock Holmes",
-    "TungLy/2. RESOURCE/BookMark/BookMark Chrome.md",
+    "Publish/Books/Tư duy như Sherlock Holmes",
     "TungLy/0. Daily/Clippings/dg-docs.ole.dev",
     "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app",
     "TungLy/0. Daily/Clippings/Learning",
-    "TungLy/0. Daily/Clippings/Learning/Infranodus và graph view",
-    "TungLy/0. Daily/Clippings/Content Customization",
     "src/Pasted image 20250125072456.png",
     "src/Pasted image 20250112222534.png",
-    "src/Pasted image 20250112222514.png",
-    "src/Pasted image 20250101220039.png",
     "Untitled.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Hướng dẫn sử dụng canvas.canvas",
-    "src/Pasted image 20240529135954.png",
-    "src/Pasted image 20240526231415.png",
-    "src/Pasted image 20240602132840.png",
-    "src/Pasted image 20230810083336.png",
-    "src/Pasted image 20240531153815.png",
     "TungLy/4. VISUAL NOTES/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
     "TungLy/4. VISUAL NOTES/Hướng dẫn sử dụng canvas.canvas",
     "TungLy/4. VISUAL NOTES/Plan.canvas",

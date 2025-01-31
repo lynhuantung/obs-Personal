@@ -25,7 +25,7 @@
   "timestampFormat": "ccc, dd/MM/yyyy, hh:mm a",
   "styleSettingsCss": "",
   "styleSettingsBodyClasses": "",
-  "pathRewriteRules": "Publish/:\n",
+  "pathRewriteRules": "Publish:",
   "customFilters": [],
   "contentClassesKey": "dg-content-classes",
   "defaultNoteSettings": {

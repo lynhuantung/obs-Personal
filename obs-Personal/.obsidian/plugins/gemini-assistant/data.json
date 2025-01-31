@@ -1,5 +1,5 @@
 {
-  "apiKey": "AIzaSyD1W1zvs_gMonBvWmi03cwxvHgUwjm3drQ",
+  "apiKey": "AIzaSyACdEydcbNMFKIqxBZJ_bCOkAfvq9GVaVQ",
   "model": "gemini-pro",
   "prompts": [
     {
@@ -90,6 +90,21 @@
         "inputTokenLimit": 30720
       },
       "prompt": "Dựa vào ghi chú đã chọn, bạn đóng vai trò là một chuyên gia viết ghi chú trong Obsidian với 5 năm kinh nghiệm. Hãy tạo ghi chú với các yêu cầu sau:\n\nTiêu đề: Bao gồm tiêu đề ngắn gọn từ nội dung ghi chú đã chọn\nNội dung: Bao gồm thông tin chi tiết và rõ ràng từ ghi chú đã chọn.\nLinks: Tạo các liên kết wiki tới các ghi chú liên quan trong Obsidian.\nKeywords: thêm các từ khóa (tối giản)cần thiết để quản lý và tìm kiếm dễ dàng hơn\nTags: Thêm các tag cần thiết và ý nghĩa để quản lý và tìm kiếm dễ dàng hơn.",
+      "type": "generative"
+    },
+    {
+      "display": "Viết nội dung (tự do)",
+      "scope": "SELECTION",
+      "model": "gemini-pro",
+      "config": {
+        "topK": 1,
+        "topP": 1,
+        "temperature": 0.9,
+        "outputTokenLimit": 2048,
+        "maxOutputTokens": 2048,
+        "inputTokenLimit": 30720
+      },
+      "prompt": "Dựa vào ghi chú đã chọn.Hãy tạo ghi chú theo nội dung đã chọn.",
       "type": "generative"
     }
   ],
