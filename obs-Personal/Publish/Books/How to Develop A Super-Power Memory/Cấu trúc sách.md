@@ -23,4 +23,4 @@ tags:
 │   ├── 🏆 [[Ghi nhớ số và ngày tháng]] → Cách ghi nhớ số điện thoại, số dài, ngày tháng
 │   ├── 🏆 [[Ghi nhớ thông tin trừu tượng]] → Cách ghi nhớ thông tin trừu tượng, ngoại ngữ, bài phát biểu, v.v.
 │   ├── 🏆 [[Các bài tập thực hành]] → Các bài tập thực hành để củng cố kỹ năng ghi nhớ
-├── 🎯 [[Kết luận]] → Tổng kết các phương pháp ghi nhớ và lời khuyên của tác giả
+├── 🎯 [[Lời kết]] → Tổng kết các phương pháp ghi nhớ và lời khuyên của tác giả

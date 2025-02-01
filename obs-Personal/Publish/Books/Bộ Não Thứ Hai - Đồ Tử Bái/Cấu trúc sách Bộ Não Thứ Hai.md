@@ -7,8 +7,8 @@ tags:
   - book
   - books/bo-nao-thu-hai
 ---
-
 # Cấu trúc sách
+---
 ![[Pasted image 20250131134318.png|500]]
 /Sách/Bộ não thứ hai/
 ├── 📖 [[Bộ não thứ hai]] → Tổng quan về sách
@@ -26,4 +26,4 @@ tags:
 ├── 🚀 **[[Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]**	
 ├── ⚡ **[[Chương 4 - Hiểu lầm, trở ngại và phương pháp luận]]**	
 ├── 🏛️ **[[Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi]]**	
-├── 🎯 [[Kết luận]] → Những giá trị và bài học rút ra từ việc xây dựng bộ não thứ hai.
+├── 🎯 [[Lời kết]] → Những giá trị và bài học rút ra từ việc xây dựng bộ não thứ hai.

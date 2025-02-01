@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Books/0. Books.md",
+                "file": "Publish/Feature/Thiết lập digital garden.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0. Books"
+              "title": "Thiết lập digital garden"
             }
           }
         ],
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"dg-home\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publish/Books/0. Books.md",
+                "file": "Publish/Feature/Thiết lập digital garden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0. Books"
+              "title": "Outline of Thiết lập digital garden"
             }
           },
           {
@@ -239,8 +239,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "0b36a27d565fae58",
@@ -252,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Publish/Books/0. Books.md",
+                "file": "Publish/Feature/Thiết lập digital garden.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -275,12 +274,12 @@
                   "repelStrength": 2.5,
                   "linkStrength": 0.385416666666667,
                   "linkDistance": 348,
-                  "scale": 0.7132754626224439,
+                  "scale": 1.000000000000003,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0. Books"
+              "title": "Graph of Thiết lập digital garden"
             }
           },
           {
@@ -316,7 +315,7 @@
               "type": "mindmap",
               "state": {},
               "icon": "dot-network",
-              "title": "Mind Map of 0. Books"
+              "title": "Mind Map of Thiết lập digital garden"
             }
           }
         ],
@@ -324,7 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5,
+    "width": 592.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -351,34 +350,41 @@
   },
   "active": "9cedd702a7b1631b",
   "lastOpenFiles": [
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật Zettelkasten.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kỹ thuật SCAMPER.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Hạn chế của bộ não sinh học.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Giới thiệu.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Ứng dụng thực tế.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Cấu trúc sách Bộ Não Thứ Hai.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Bộ não thứ hai.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Kết luận.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 5 - Di sản cá nhân và truyền thừa gia tộc đang thay đổi.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 4 - Hiểu lầm, trở ngại và phương pháp luận.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tư duy ngược.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Chương 2 - Xây dựng bộ nhớ kỹ thuật số.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những quan điểm sai lầm về bộ não thứ hai.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tóm tắt.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Tầm quan trọng của trí nhớ kỹ thuật số.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những vấn đề liên quan đến trí nhớ con người.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Những lợi ích khi xây dựng bộ não thứ hai.md",
-    "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái/Internet không phải là bộ não thứ hai.md",
-    "Publish/Books/0. Books.md",
+    "Publish/Feature/AllFeature.md",
+    "Publish/Getting started.md",
+    "Publish/Local graph view/0 - Học Tiếng Anh.md",
+    "Publish/Feature/MOC.md",
+    "Publish/Feature/Các ghi chú.md",
+    "Publish/Feature/Thiết lập digital garden.md",
+    "Publish/Feature/Simple-Page.md",
+    "Publish/Feature/Notes.md",
+    "Publish/Feature",
+    "src/Pasted image 20250201083611.png",
+    "Publish/Local graph view/().md",
+    "Publish/[0.md",
+    "src/Pasted image 20250201082144.png",
+    "Publish/Local graph view/Nghe Podcast.md",
+    "Publish/Local graph view/Ngữ pháp.md",
+    "Publish/Local graph view/Viết luận.md",
+    "Publish/Local graph view/Tư duy bằng tiếng Anh.md",
+    "Publish/Local graph view/Học từ vựng qua phim.md",
+    "Publish/Local graph view/Giao tiếp phản xạ.md",
+    "Publish/Local graph view",
+    "Publish/Hoc tieng anh/Viết luận.md",
+    "Publish/Hoc tieng anh/Tư duy bằng tiếng Anh.md",
+    "Publish/Hoc tieng anh/Ngữ pháp.md",
+    "Publish/Hoc tieng anh/Nghe Podcast.md",
+    "Publish/Hoc tieng anh/Học từ vựng qua phim.md",
+    "Publish/Hoc tieng anh/Học Tiếng Anh.md",
+    "Publish/Hoc tieng anh/Giao tiếp phản xạ.md",
+    "Publish/Hoc tieng anh",
+    "TungLy/0. Daily/Local graph view/Hoc tieng anh/Học Tiếng Anh.md",
+    "TungLy/0. Daily/Local graph view/Hoc tieng anh/Viết luận.md",
+    "TungLy/0. Daily/Local graph view/Hoc tieng anh/Giao tiếp phản xạ.md",
+    "TungLy/0. Daily/Local graph view/Hoc tieng anh",
+    "TungLy/0. Daily/Local graph view",
     "src/Pasted image 20250131134318.png",
     "src/Pasted image 20250131134009.png",
-    "Publish/Books/Building a Second Brain/Ứng dụng Building a Second Brain.md",
-    "Publish/Books/Thông Tin Sách/Đồ Tử Bái.md",
-    "Publish/Books/Thông Tin Sách/Tiago Forte.md",
-    "Publish/Books/Building a Second Brain/Building a Second Brain - Thiết lập bộ não thứ hai.md",
-    "Publish/Books/Building a Second Brain/Nguồn gốc và Khái niệm.md",
-    "Publish/Books/Building a Second Brain/Giới thiệu Building a Second Brain.md",
     "Publish/Books/Bộ Não Thứ Hai - Đồ Tử Bái",
     "src/Pasted image 20250131093233.png",
     "src/Pasted image 20250131093228.png",
@@ -388,15 +394,8 @@
     "src/Pasted image 20250131073030.png",
     "src/Pasted image 20250131073027.png",
     "Publish/Books/The PARA Method",
-    "src/Pasted image 20250130234505.png",
-    "src/Pasted image 20250128175825.png",
     "TungLy/0. Daily/Clippings/nodelink.netlify.app",
     "TungLy/0. Daily/Clippings",
-    "Publish/Books/Thông Tin Sách",
-    "TungLy/1. Projects/Books/Tác giả",
-    "Publish/Books/Tư duy như Sherlock Holmes",
-    "TungLy/0. Daily/Clippings/dg-docs.ole.dev",
-    "TungLy/0. Daily/Clippings/Learning/nodelink.netlify.app",
     "Untitled.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",

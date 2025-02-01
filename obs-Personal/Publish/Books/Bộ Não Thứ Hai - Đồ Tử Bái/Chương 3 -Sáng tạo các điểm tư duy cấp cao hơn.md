@@ -6,7 +6,6 @@ date: 2025-01-31
 tags:
   - book
   - books/bo-nao-thu-hai
-Related: "[[zet"
 ---
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**
 ---
@@ -34,7 +33,7 @@ Chương này bao gồm **4 phần chính**:
 - Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[lan truyền kích hoạt]]
 
 📌 **Cách thực hiện:**  
-✅ **Tạo mạng lưới ý tưởng** thay vì ghi chú rời rạc:
+✅ **Tạo mạng lưới ý tưởng** ([[Kỹ thuật Zettelkasten]]) thay vì ghi chú rời rạc:
 
 - Thay vì viết một ghi chú độc lập, hãy kết nối nó với các ý tưởng liên quan.
 - Ví dụ, nếu bạn đang nghiên cứu về **Tư duy sáng tạo**, ghi chú có thể được kết nối như sau:
@@ -154,3 +153,4 @@ Chương này bao gồm **4 phần chính**:
 ---
 
 💡 **Tóm lại, chương này hướng dẫn bạn cách dùng bộ não thứ hai để sáng tạo ý tưởng mới, kết nối thông tin, mô phỏng quyết định và nâng cao tư duy phản biện. Nếu áp dụng tốt, bạn sẽ không chỉ ghi nhớ mà còn có thể “tư duy như một thiên tài”! 🚀**
+
