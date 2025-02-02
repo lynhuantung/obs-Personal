@@ -10,14 +10,13 @@
 ### Tóm tắt
 ---
 
-> [!NOTE] **Tóm tắt:**
->  
-> * **Hoàn thành:** 
-> 	* Liệt kê các nhiệm vụ và dự án đã hoàn thành trong tuần này.
-> * **Đang tiến hành:** 
-> 	* Liệt kê các nhiệm vụ và dự án đang tiến hành, bao gồm cả tiến độ và bất kỳ thách thức nào.
-> * **Sắp tới:** 
-> 	* Liệt kê các nhiệm vụ và dự án sắp tới trong tuần tới.
+ 
+* **Hoàn thành:** 
+	* Liệt kê các nhiệm vụ và dự án đã hoàn thành trong tuần này.
+* **Đang tiến hành:** 
+	* Liệt kê các nhiệm vụ và dự án đang tiến hành, bao gồm cả tiến độ và bất kỳ thách thức nào.
+* **Sắp tới:** 
+	* Liệt kê các nhiệm vụ và dự án sắp tới trong tuần tới.
 
 ### Thành tựu
 ---
