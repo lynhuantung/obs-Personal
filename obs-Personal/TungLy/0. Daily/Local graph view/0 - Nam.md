@@ -5,5 +5,5 @@ Nam chơi cùng:
 - [[Minh]] (học toán 📖)
 - [[Hoa]] (vẽ tranh 🎨)
 
-Có bạn đã rủ Nam đi chơi:
+Có bạn đã rủ Nam đi chơi: ^869b24
 - [[An]] (mời ăn bánh 🍪)

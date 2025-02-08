@@ -63,11 +63,18 @@ Khi tìm kiếm **#AI**, bạn sẽ thấy tất cả các ghi chú có liên qu
 
 ## **🔹 3. Trang (Page): Vùng phản xạ của bộ não thứ hai**
 
-📌 _Khái niệm:_
+📌 Tương quan:
+- **Vùng phản xạ não**: Là một phần của hệ thần kinh, chịu trách nhiệm cho các phản ứng tự động, hành vi học tập và tích hợp thông tin. Chúng hoạt động dựa trên các kết nối thần kinh có sẵn và thường diễn ra một cách vô thức.
+- **Trang (page) trong "Bộ Não Thứ Hai"**: Là một cấu trúc được tạo ra trong hệ thống ghi chú số, dùng để tập hợp và liên kết các thông tin. Việc sắp xếp và sử dụng trang là một hành động có ý thức và chủ động của người dùng.
 
-- **Trang (Page)** là **một tập hợp các khối** có liên quan đến một chủ đề cụ thể.
+📌 _Khái niệm:_
+- **Trang (Page)** là **một tập hợp các khối** có liên quan đến một chủ đề cụ thể. Giúp người dùng tổng hợp, sắp xếp và liên kết thông tin, tạo ra cái nhìn tổng quan và sâu sắc về một chủ đề.
 - Nếu **khối là tế bào thần kinh**, thì **trang là vùng phản xạ**, nơi xử lý một loại thông tin cụ thể.
 - Trang giúp **tổ chức thông tin có hệ thống, dễ truy xuất và tái sử dụng**.
+
+ 📌 Nói cách khác:
+- Vùng phản xạ não hoạt động như một "trung tâm xử lý" thông tin, giúp cơ thể phản ứng và học hỏi.
+- Trang (page) cũng đóng vai trò tương tự trong "Bộ Não Thứ Hai", giúp người dùng xử lý và hiểu thông tin một cách hiệu quả.
 
 📌 _Cách sử dụng trong thực tế:_  
 ✅ Mỗi dự án, chủ đề có **một trang trung tâm**, nơi tổng hợp thông tin từ các khối nhỏ.  
