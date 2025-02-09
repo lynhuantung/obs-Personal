@@ -13,7 +13,7 @@ dg-show-tags: "false"
 dg-pass-frontmatter: "false"
 ---
 
-[[Getting started|AllFeature]]
+[[Home|AllFeature]]
 
 
 Một trang mà đồ thị cục bộ, tìm kiếm, liên kết ngược, cây tệp, liên kết trang chủ và bảng nội dung bị vô hiệu hóa.

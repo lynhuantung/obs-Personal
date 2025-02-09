@@ -14,7 +14,7 @@ dg-pass-frontmatter: "false"
 dg-hide-links: false
 ---
 
-[[Getting started|AllFeature]]
+[[Home|AllFeature]]
 
 # Bài tập về nhà
 ---
