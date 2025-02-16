@@ -72,9 +72,9 @@ Theo định nghĩa của The PARA Method, **dự án** là một chuỗi các n
 
 **Kết hợp Dự án với các thành phần khác trong PARA:**
 
-- **[[Areas - Lĩnh vực]]:** Dự án thường gắn liền với một hoặc nhiều lĩnh vực trong cuộc sống của bạn. Ví dụ, dự án "Triển khai chiến dịch marketing mới" thuộc lĩnh vực "Công việc".
-- **[[Resources - Tài nguyên]]:** Bạn có thể lưu trữ các tài liệu, thông tin liên quan đến dự án trong phần Tài nguyên. Ví dụ, tài liệu nghiên cứu thị trường, báo cáo phân tích đối thủ cạnh tranh...
-- **[[Archives - Lưu trữ]]:** Sau khi hoàn thành dự án, bạn có thể chuyển tất cả thông tin liên quan đến dự án vào phần Lưu trữ để tham khảo sau này.
+- **[[3 - Areas - Lĩnh vực]]:** Dự án thường gắn liền với một hoặc nhiều lĩnh vực trong cuộc sống của bạn. Ví dụ, dự án "Triển khai chiến dịch marketing mới" thuộc lĩnh vực "Công việc".
+- **[[4 - Resources - Tài nguyên]]:** Bạn có thể lưu trữ các tài liệu, thông tin liên quan đến dự án trong phần Tài nguyên. Ví dụ, tài liệu nghiên cứu thị trường, báo cáo phân tích đối thủ cạnh tranh...
+- **[[5 - Archives - Lưu trữ]]:** Sau khi hoàn thành dự án, bạn có thể chuyển tất cả thông tin liên quan đến dự án vào phần Lưu trữ để tham khảo sau này.
 
 **Lời kết:**
 

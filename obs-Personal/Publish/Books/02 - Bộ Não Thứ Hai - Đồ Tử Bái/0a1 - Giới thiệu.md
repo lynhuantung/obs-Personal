@@ -9,6 +9,7 @@ tags:
 ---
 ## **📖 CẤU TRÚC SÁCH "BỘ NÃO THỨ HAI"**
 ---
+![[Pasted image 20250131134318.png|300]]
 **Tác giả:**  [[Đồ Tử Bái]]
 ### **1. Giới thiệu chung về cuốn sách**
 

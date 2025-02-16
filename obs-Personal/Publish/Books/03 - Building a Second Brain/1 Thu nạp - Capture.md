@@ -33,10 +33,10 @@ Thu nạp (Capture) là bước đầu tiên trong phương pháp CODE (Capture 
 | Ghi chú tay | Apple Notes, Google Keep |
 
 ## 🏷️ Phân loại thông tin theo PARA
-📂 **[[Projects - Dự án]]**: Thông tin liên quan đến các dự án đang làm.  
-📂 **[[Areas - Lĩnh vực]]**: Những lĩnh vực quan trọng trong cuộc sống và công việc.  
-📂 **[[Resources - Tài nguyên]] **: Tài liệu tham khảo hữu ích.  
-📂 **[[Archives - Lưu trữ]]**: Những thông tin không còn cần thiết nhưng có thể dùng sau.
+📂 **[[2 - Projects - Dự án]]**: Thông tin liên quan đến các dự án đang làm.  
+📂 **[[3 - Areas - Lĩnh vực]]**: Những lĩnh vực quan trọng trong cuộc sống và công việc.  
+📂 **[[4 - Resources - Tài nguyên]] **: Tài liệu tham khảo hữu ích.  
+📂 **[[5 - Archives - Lưu trữ]]**: Những thông tin không còn cần thiết nhưng có thể dùng sau.
 
 ## ✨ Ví dụ thực tế
 📖 Khi đọc sách, bạn tóm tắt ý chính vào **Obsidian** thay vì chỉ lưu ảnh chụp trang sách.  

@@ -17,3 +17,6 @@ tags:
 - Đề tài được nói đến gồm: <span style="background:rgba(240, 200, 0, 0.2)">cung điện ký, manh mối phi ngôn ngữ, phát hiện nói dối, trực giác, sức tập trung, kỹ năng lắng nghe, cảnh giác, quan sát mọi ngườ</span>i, sàng lọc thông tin và nhiều đề tài khác.
 
 - Sau khi đọc sách bạn sẽ có cách nhìn hoàn toàn khác mới về sự vật, từ chiếc cúc áo, gấu quần cho đến vết xước trên mũi giày!
+
+
+[[2 - Tư Duy Như Sherlock Holmes]]

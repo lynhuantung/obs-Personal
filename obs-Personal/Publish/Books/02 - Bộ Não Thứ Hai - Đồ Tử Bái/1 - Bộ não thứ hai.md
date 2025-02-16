@@ -10,7 +10,7 @@ Related:
 ---
 # Bộ não thứ 2
 ---
-![[Pasted image 20250131134009.png|500]]
+![[Pasted image 20250131134009.png|300]]
 **Tác giả:**  [[Đồ Tử Bái]]
 ## **Giới thiệu**
 

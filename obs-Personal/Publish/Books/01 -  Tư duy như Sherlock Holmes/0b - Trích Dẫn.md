@@ -10,7 +10,7 @@ tags:
 ---
 # Trích dẫn
 ---
-
+![[Pasted image 20250128175825.png|300]]
 > [!quote] 
 > Anh nhìn, nhưng anh không quan sát
 > -- Sherlock Holmes--

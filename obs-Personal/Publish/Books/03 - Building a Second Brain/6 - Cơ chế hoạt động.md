@@ -92,4 +92,4 @@ Bằng cách phối hợp giữa bộ não thứ hai và bộ não sinh học, b
 ✅ **Ra quyết định sáng suốt dựa trên dữ liệu.**
 
 
-👉 **Tiếp theo:** [[Ứng dụng Building a Second Brain]]
+👉 **Tiếp theo:** [[8 - Ứng dụng Building a Second Brain]]

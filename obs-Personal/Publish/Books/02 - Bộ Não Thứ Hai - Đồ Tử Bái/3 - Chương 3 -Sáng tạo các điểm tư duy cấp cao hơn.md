@@ -33,16 +33,16 @@ Chương này bao gồm **4 phần chính**:
 - Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[lan truyền kích hoạt]]
 
 📌 **Cách thực hiện:**  
-✅ **Tạo mạng lưới ý tưởng** ([[Kỹ thuật Zettelkasten]]) thay vì ghi chú rời rạc:
+✅ **Tạo mạng lưới ý tưởng** ([[7 - Kỹ thuật Zettelkasten]]) thay vì ghi chú rời rạc:
 
 - Thay vì viết một ghi chú độc lập, hãy kết nối nó với các ý tưởng liên quan.
 - Ví dụ, nếu bạn đang nghiên cứu về **Tư duy sáng tạo**, ghi chú có thể được kết nối như sau:
 
 🧠 Tư duy sáng tạo
-    ├── 🎨 [[Kỹ thuật SCAMPER]]
+    ├── 🎨 [[6 - Kỹ thuật SCAMPER]]
     ├── 🔀 Phương pháp Mind Mapping
     ├── 💡 Nguyên tắc First Principles Thinking
-    ├── 🤯 Lối tư duy đảo ngược ([[Tư duy ngược]])
+    ├── 🤯 Lối tư duy đảo ngược ([[9 - Tư duy ngược]])
 
 
 - Điều này giúp bạn **dễ dàng truy xuất thông tin** khi cần và kích thích sự sáng tạo từ các mối liên kết.

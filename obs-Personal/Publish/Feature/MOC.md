@@ -6,4 +6,4 @@ dg-home: false
 - [[Simple-Page]]
 - [[Thiết lập digital garden]]
 - [[0 - Học Tiếng Anh]] -->Thể hiện local graph view giúp tư duy rộng
-- [[0. Books|Sách]]
+- [[0 - Books|Sách]]

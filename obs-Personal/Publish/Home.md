@@ -7,7 +7,7 @@ title:
 ---
 - [Node Link Mobile](https://m-nodelink.netlify.app/)
 - [[MOC]]
-- [[0. Books|Sách]]
+- [[0 - Books|Sách]]
 
 
 # 🚀 Getting Started

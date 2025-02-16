@@ -48,8 +48,8 @@ Cuốn sách "The PARA Method" không chỉ cung cấp hướng dẫn chi tiết
 
 ---
 ## Nội dung chính:
-- 📂 [[Projects - Dự án]]
-- 🗂️ [[Areas - Lĩnh vực]]
-- 🔍 [[Resources - Tài nguyên]]
-- 🏆 [[Archives - Lưu trữ]]
+- 📂 [[2 - Projects - Dự án]]
+- 🗂️ [[3 - Areas - Lĩnh vực]]
+- 🔍 [[4 - Resources - Tài nguyên]]
+- 🏆 [[5 - Archives - Lưu trữ]]
 ---

@@ -9,7 +9,7 @@ tags:
 ---
 ## Tóm tắt Building a Second Brain
 ---
-![[Pasted image 20250131093233.png|500]]
+![[Pasted image 20250131093233.png|300]]
 **Phần I: Ý tưởng ra đời - Những điều khả thi được thấu hiểu**
 
 * **Chương 1: Nguồn gốc của Bộ não thứ hai:**  Khái niệm "bộ não thứ hai" xuất phát từ đâu và tại sao nó lại quan trọng trong thời đại ngày nay?

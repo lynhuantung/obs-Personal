@@ -29,3 +29,6 @@ tags:
 10. Loại trừ cái không thể
 	- Một giả thuyết không khớp với dữ kiện thực tế phải bị loại bỏ.
 
+
+
+[[5a - Diễn giải 10 bước tư duy như Sherlock Holmes]]

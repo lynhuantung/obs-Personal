@@ -6,7 +6,7 @@ date: 2025-01-31
 tags:
   - book
   - books/building-second-brain
-Related: "[[The PARA Method]]"
+Related: "[[1 - The PARA Method]]"
 ---
 ## Building a Second Brain - Thiết lập bộ não thứ hai
 ---
@@ -40,8 +40,8 @@ Related: "[[The PARA Method]]"
 
 **Các ghi chú liên quan:**
 
-* [[Tóm tắt Building a Second Brain]]
-* [[Giới thiệu Building a Second Brain]]
-* [[Ứng dụng Building a Second Brain]]
-* [[Trích dẫn Building a Second Brain]]
-* [[Rút ra kết luận Building a Second Brain]]
+* [[0d - Tóm tắt Building a Second Brain]]
+* [[0a - Giới thiệu Building a Second Brain]]
+* [[8 - Ứng dụng Building a Second Brain]]
+* [[0a1 - Trích dẫn Building a Second Brain]]
+* [[7 - Rút ra kết luận Building a Second Brain]]
