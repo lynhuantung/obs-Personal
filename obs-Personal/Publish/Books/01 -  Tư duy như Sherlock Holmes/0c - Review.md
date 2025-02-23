@@ -4,8 +4,8 @@ dg-home: false
 title: Review
 date: 2025-01-28
 tags:
-  - book
-  - books/tu-duy-nhu-sherlock-holmes
+  - sach
+  - sach/tu-duy-nhu-sherlock-holmes
   - "#review"
 ---
 # 📝 Đánh giá sách **"Tư duy như Sherlock Holmes"**  ![[Pasted image 20250128175825.png|300]]

@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Những vấn đề liên quan đến trí nhớ con người
+title: 1e - Những vấn đề liên quan đến trí nhớ con người
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # Những vấn đề liên quan đến trí nhớ con người
 ---

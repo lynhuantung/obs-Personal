@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Những lợi ích khi xây dựng bộ não thứ hai
+title: 1c - Những lợi ích khi xây dựng bộ não thứ hai
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # Những lợi ích khi xây dựng bộ não thứ hai
 ---

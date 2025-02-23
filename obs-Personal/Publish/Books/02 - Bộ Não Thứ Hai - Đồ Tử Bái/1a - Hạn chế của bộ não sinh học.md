@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Hạn chế của bộ não sinh học
+title: 1a - Hạn chế của bộ não sinh học
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # Hạn chế của bộ não sinh học
 ---

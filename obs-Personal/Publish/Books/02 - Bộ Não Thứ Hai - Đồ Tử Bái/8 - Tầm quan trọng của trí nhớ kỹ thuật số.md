@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Tầm quan trọng của trí nhớ kỹ thuật số
+title: 8 - Tầm quan trọng của trí nhớ kỹ thuật số
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # Tầm quan trọng của trí nhớ kỹ thuật số
 ---

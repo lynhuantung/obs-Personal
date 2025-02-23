@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Internet không phải là bộ não thứ hai
+title: 1b - Internet không phải là bộ não thứ hai
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # Internet không phải là bộ não thứ hai
 ---

@@ -4,7 +4,7 @@ dg-home: false
 title: Ghi nhớ tên và khuôn mặt
 date: 2024-08-31
 tags:
-  - "#books"
+  - "#sach"
   - "#memory"
   - "#How_to_Develop_A_Super_Power_Memory"
 Chương: Chương15

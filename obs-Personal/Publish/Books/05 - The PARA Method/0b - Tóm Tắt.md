@@ -5,7 +5,7 @@ title: Tóm Tắt The PARA Method
 date: 2025-01-31
 tags:
   - book-summary
-  - books/the-para-method  
+  - sach/the-para-method  
 ---
 # Tóm Tắt
 ---

@@ -5,7 +5,7 @@ title: Giới thiệu The PARA Method
 date: 2025-01-31
 tags:
   - book-intro
-  - books/the-para-method  
+  - sach/the-para-method  
 ---
 ## Phương pháp PARA: Tổ chức thông tin, nâng cao hiệu quả làm việc
 ---

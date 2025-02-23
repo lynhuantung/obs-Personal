@@ -2,8 +2,8 @@
 author: Tiago Forte
 aliases: []
 tags:
-  - book
-  - "#author"
+  - sach
+  - "#tac-gia"
 Mô tả: Tiago Forte là một chuyên gia về năng suất cá nhân, quản lý tri thức và cải thiện hiệu suất làm việc thông qua công nghệ và phương pháp luận hiện đại. Anh là người sáng lập **Forte Labs**, một công ty chuyên tư vấn và đào tạo về quản lý thông tin, kỹ năng làm việc và sáng tạo hiệu quả.
 website: 
 type: "[[3.Tác giả|Tác giả]]"

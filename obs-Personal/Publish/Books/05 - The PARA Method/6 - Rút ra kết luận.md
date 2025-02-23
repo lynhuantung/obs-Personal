@@ -5,7 +5,7 @@ title: Rút ra kết luận - The PARA Method
 date: 2025-01-31
 tags:
   - book-summary
-  - books/the-para-method  
+  - sach/the-para-method  
 ---
 ## Rút ra kết luận từ phương pháp PARA (dựa trên sách The PARA Method)
 ---

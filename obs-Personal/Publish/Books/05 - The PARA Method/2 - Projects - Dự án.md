@@ -4,8 +4,8 @@ dg-home: false
 title: Projects (Dự án) - The PARA Method
 date: 2025-01-31
 tags:
-  - book
-  - books/the-para-method  
+  - sach
+  - sach/the-para-method  
 ---
 
 # Projects (Dự án)

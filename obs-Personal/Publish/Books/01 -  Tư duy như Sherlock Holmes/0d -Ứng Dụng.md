@@ -4,8 +4,8 @@ dg-home: false
 title: Ứng Dụng - Tư Duy Như Sherlock Holmes
 date: 2025-01-28
 tags:
-  - book
-  - books/tu-duy-nhu-sherlock-holmes
+  - sach
+  - sach/tu-duy-nhu-sherlock-holmes
   - "#ung-dung"
 ---
 # 🎯 Ứng Dụng - Tư Duy Như Sherlock Holmes

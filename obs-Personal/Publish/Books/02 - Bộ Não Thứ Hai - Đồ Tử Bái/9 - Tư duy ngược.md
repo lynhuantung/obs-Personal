@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Tư duy ngược
+title: 9 - Tư duy ngược
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 
 ## **Reverse Thinking – Tư Duy Đảo Ngược** 🔄💡

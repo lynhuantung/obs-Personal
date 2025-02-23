@@ -2,8 +2,8 @@
 title: 
 date: "{{date}}"
 tags:
-  - "#books"
+  - "#sach"
   - "#memory"
-  - "#book/How_to_Develop_A_Super_Power_Memory"
+  - "#sach/How_to_Develop_A_Super_Power_Memory"
 Chương: Chương1
 ---

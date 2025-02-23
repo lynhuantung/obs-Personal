@@ -3,7 +3,8 @@
   "cssTheme": "",
   "translucency": false,
   "enabledCssSnippets": [
-    "obsidian_theme_config"
+    "obsidian_theme_config",
+    "obsidian_folder_tag_theme"
   ],
   "theme": "moonstone",
   "accentColor": "#e4445c"

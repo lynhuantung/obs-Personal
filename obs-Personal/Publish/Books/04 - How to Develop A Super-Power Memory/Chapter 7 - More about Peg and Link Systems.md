@@ -4,7 +4,7 @@ dg-home: false
 title: Kết hợp Peg System và Link Method
 date: 2024-08-31
 tags:
-  - "#books"
+  - "#sach"
   - "#memory"
   - "#How_to_Develop_A_Super_Power_Memory"
 Chương: Chương7

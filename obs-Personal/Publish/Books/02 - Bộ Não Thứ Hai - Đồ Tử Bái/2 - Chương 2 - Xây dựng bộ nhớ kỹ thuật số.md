@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Giới thiệu
+title: 2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # **📖 Chương 2: Xây dựng bộ nhớ kỹ thuật số**
 ---
@@ -176,3 +176,8 @@ Nhật ký giúp bạn **phát triển liên tục** và tận dụng bộ não 
 ---
 
 💡 **Tóm lại, Chương 2 hướng dẫn cách tạo ra bộ não thứ hai với khối – thẻ – trang, giúp tăng khả năng ghi nhớ, tư duy và sáng tạo! 🚀**
+
+
+---
+Trang tiếp theo:
+[[3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]

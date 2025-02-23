@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn
+title: 3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # **Chương 3: Sáng Tạo Các Điểm Tư Duy Cấp Cao Hơn**
 ---
@@ -18,10 +18,11 @@ Tác giả hướng dẫn cách sử dụng bộ não thứ hai để **tạo ra
 
 Chương này bao gồm **4 phần chính**:
 
-1. **Xây dựng lược đồ mạng bộ não**
+1. **Xây dựng lược đồ mạng bộ não** ^a8ce57
 2. **Quan sát, khám phá và kết nối mới**
 3. **Kết hợp não bộ với máy tính, tạo ra những ý tưởng mới**
 4. **Mô phỏng quyết định và tư duy phản biện**
+5. Viết lại, thích ứng và liên văn bản: tạo ra các tế bào não mới
 
 ---
 
@@ -31,6 +32,7 @@ Chương này bao gồm **4 phần chính**:
 
 - Bộ não sinh học của con người hoạt động theo **mạng lưới thần kinh**, trong đó **các nơ-ron kết nối với nhau** để tạo ra suy nghĩ và ý tưởng.
 - Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[lan truyền kích hoạt]]
+- <span style="background:rgba(240, 200, 0, 0.2)">Như chúng ta đã đề cập trước đó, các khối thông tin được kết nối và liên kết với nhau thông qua các thẻ. Các thẻ là khớp thần kinh của các noron trong bộ não thứ hai. Giống như một cái móc, chúng liên kết các khối thông tin khác, các khối thông tin có cùng thẻ sẽ được tự động phân loại và hội tụ để tạo thành một vùng phản xạ(tức là xác định một trang)</span>
 
 📌 **Cách thực hiện:**  
 ✅ **Tạo mạng lưới ý tưởng** ([[7 - Kỹ thuật Zettelkasten]]) thay vì ghi chú rời rạc:
@@ -60,6 +62,8 @@ Chương này bao gồm **4 phần chính**:
     ```
     
 - **Sử dụng Graph View** để trực quan hóa cách ghi chú kết nối với nhau.
+- 
+
 
 ---
 
@@ -69,6 +73,8 @@ Chương này bao gồm **4 phần chính**:
 
 - Sự sáng tạo không phải là "phát minh từ con số 0", mà là **khám phá và kết nối những ý tưởng cũ theo cách mới**.
 - Việc có một bộ não thứ hai giúp bạn **kết nối những ghi chú khác nhau** để tìm ra **góc nhìn mới**.
+- <span style="background:rgba(240, 200, 0, 0.2)">Bất kỳ ý tưởng nào cũng giống như một con người, đều có cha mẹ, anh em, họ hàng bên nội, bên ngoại.</span>
+- Có một thuyết nổi tiếng về<span style="background:rgba(240, 200, 0, 0.2)"> sáu độ cách biệt (six degrees of separation), nói rằng : thế giới là một mạng lưới, nhiều người có chung mối quan hệ.Vì vậy, khoảng cách giữa bạn và bất kỳ người lạ nào là không quá sáu người, tức bạn có thể gặp bất kỳ người lạ nào thông qua nhiều nhất là sáu người trung gian.</span> => [[3a - Thuyết sáu cấp độ cách biệt]]
 
 📌 **Cách thực hiện:**  
 ✅ **Xây dựng thói quen “Dạo quanh ghi chú”** (Random Walk Notes):
@@ -89,6 +95,10 @@ Chương này bao gồm **4 phần chính**:
 
 - **Dùng plugin Smart Random Note** để mỗi ngày mở một ghi chú cũ ngẫu nhiên.
 - **Sử dụng Graph View với chế độ Local Graph** để nhìn thấy các ghi chú gần nhất.
+- Ví dụ:
+![[Pasted image 20250223154209.png]]
+Bản đồ trên không hề phức tạp, nó cho thấy vùng phản xạ tôn giáo màu đen có liên quan đến các vùng phản xạ chủ đề của "dự đoán", "bản chất con người", "vô tri", và "thời gian". Tất nhiên, những kết nối này được tạo ra do mối quan hệ giữa các nơ-ron đã hình thành các trang đó. "tôn giáo" liên quan đến "dự đoán" bởi vì tôi có thể tưởng tượng chuyện nhiều tôn giáo tuyên bố rằng họ có thể dự đoán tương lai. "tôn giáo" liên quan "bản chất con người" và tôi cũng có thể tưởng tượng được rằng tín ngưỡng là nhu cầu tinh thần cơ bản nhất của con người. "tôn giáo" và "vô tri" có liên quan với nhau , tôi có thể tưởng tượng được rằng nhiều người tin vào tôn giáo một cách mù quán vì thiếu hiểu biết. Nhưng mối quan hệ giữa hai phạm vi phản xạ "tôn giáo" và "thời gian" có thể là gì? Khi nhìn vào bản đồ này, tôi thực sự không hình dung được
+ 
 
 ---
 
@@ -97,6 +107,12 @@ Chương này bao gồm **4 phần chính**:
 📌 **Khái niệm:**
 
 - Khi bộ não thứ hai **được tổ chức tốt**, nó trở thành **một môi trường kích thích sáng tạo**, giúp bạn **tìm ra các ý tưởng mới từ dữ liệu cũ**.
+- Bậc thầy sáng tạo  Steve Jobs (1955-2011) từng nói: "<span style="background:rgba(240, 200, 0, 0.2)">đổi mới chỉ là kết nối mọi thứ lại với nhau và kết nối càng bất ngờ thì món đồ được sáng tạo ra càng giá trị</span>" . Jobs đã đúng khi cho rằng nhiều người có khả năng đổi mới vì họ có thể khám phá ra những kết nối và mối quan hệ mà những người khác không thể.
+
+📌 **Bộ não thứ nhất phối hợp với bộ não thứ hai như thế nào:**
+- **Kinh nghiệm thứ nhất**: bộ não thứ nhất phải thường xuyên ghé thăm bộ não thứ hai. Tôi thường <span style="background:rgba(240, 200, 0, 0.2)">đi lang thang trong bộ não thứ hai</span>, chỉ nhìn đây đó, không đặt mục tiêu rõ ràng nào cho mình. Kỳ lạ thay, trong trạng thái không mục đích này, tôi thường có thể tìm thấy một số kết nối mới, một số điểm mới đáng để phóng to và đào sâu.
+- **Kinh nghiệm thứ hai:** <span style="background:rgba(240, 200, 0, 0.2)">nhìn chầm chầm</span>. không chỉ đối mặt với màn hình, một số thông tin phải được in ra và duyệt thủ công. Đây là lý do tại sao chúng ta thường đặt những điều cần suy nghĩ ở trước mắt và nhìn chầm chầm vào chúng. Tôi luôn đặt chủ đề tư duy trước mặt mình như một bức tranh, rồi phát thảo từng chút một.
+- **Kinh nghiệm thứ ba**: <span style="background:rgba(240, 200, 0, 0.2)">duy trì thói quen đọc sách</span> , bạn càng đọc sách nó càng ngấm sâu vào tiềm thức và mạch não.
 
 📌 **Cách thực hiện:**  
 ✅ **Sử dụng công nghệ AI để hỗ trợ sáng tạo:**
@@ -151,6 +167,19 @@ Chương này bao gồm **4 phần chính**:
 - **Dùng Dataview Plugin để theo dõi các quyết định cũ và rút kinh nghiệm.**
 
 ---
+## **5. Viết lại, thích ứng và liên văn bản: tạo ra các tế bào mới**
+
+📌 Viết lại:
+- Franklin thích đọc báo, thấy bài báo hay sẽ đọc đi đọc lại, sau đó, ông sẽ đóng tờ báo và viết lại bài báo trên giấy theo trí nhớ cùng cách hiểu của mình.
+📌 phương pháp zettelkasten [[7 - Kỹ thuật Zettelkasten]]: phương pháp được học giả người Đức Niklas Luhmann (1927-1998), mỗi khi bạn đọc một thông tin có giá trị thì phải tạo một hộp thẻ cho nó, không bao giờ sao chép mà chỉ viết lại và dịch những thông tin đọc được theo ngữ cảnh của mình. Các thẻ về chủ đề liên quan nhau sau đó được tập hợp lại thông qua phương pháp chỉ mục do chính ông phát minh ra 
+
+
+
+---
 
 💡 **Tóm lại, chương này hướng dẫn bạn cách dùng bộ não thứ hai để sáng tạo ý tưởng mới, kết nối thông tin, mô phỏng quyết định và nâng cao tư duy phản biện. Nếu áp dụng tốt, bạn sẽ không chỉ ghi nhớ mà còn có thể “tư duy như một thiên tài”! 🚀**
 
+
+---
+Trang tiếp theo:
+[[4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận]]

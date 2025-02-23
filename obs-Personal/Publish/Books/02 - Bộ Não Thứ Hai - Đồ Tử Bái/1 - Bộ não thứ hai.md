@@ -1,12 +1,12 @@
 ---
 dg-publish: true
 dg-home: false
-title: Bộ não thứ hai
+title: 1 - Bộ não thứ hai
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
-Related: 
+  - sach
+  - sach/bo-nao-thu-hai
+Related:
 ---
 # Bộ não thứ 2
 ---
@@ -29,3 +29,12 @@ Internet di động và vũ trụ ảo đang phát triển nhanh chóng. Những
 
 - Sự hợp nhất giữa não bộ và công nghệ đang tiến triển nhanh chóng, với nhiều ứng dụng đầy hứa hẹn trong y tế, giáo dục và các lĩnh vực khác.
 - Khi công nghệ tiếp tục phát triển, bộ não thứ hai có khả năng cách mạng hóa cách chúng ta sống, làm việc và tương tác với thế giới xung quanh.
+- Internet không phải là bộ não thứ 2: [[1a - Hạn chế của bộ não sinh học]]
+- Hạn chế : [[1a - Hạn chế của bộ não sinh học]]
+- Lợi ích: [[1c - Những lợi ích khi xây dựng bộ não thứ hai]]
+- Quan điểm sai lầm : [[1d - Những quan điểm sai lầm về bộ não thứ hai]]
+- Những vấn đề liên quan trí nhớ con người : [[1e - Những vấn đề liên quan đến trí nhớ con người]]
+
+---
+Trang tiếp theo:
+[[2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số]]

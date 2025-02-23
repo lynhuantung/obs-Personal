@@ -4,8 +4,8 @@ dg-home: false
 title: The PARA Method - Phương pháp tổ chức thông tin trong công việc
 date: 2025-01-31
 tags:
-  - book
-  - books/the-para-method  
+  - sach
+  - sach/the-para-method  
 ---
 
 # The PARA Method

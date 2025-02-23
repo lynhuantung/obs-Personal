@@ -4,8 +4,8 @@ dg-home: false
 title: Nguồn gốc và Khái niệm
 date: 2025-01-31
 tags:
-  - book
-  - books/building-second-brain
+  - sach
+  - sach/building-second-brain
 ---
 # 🧠 Nguồn gốc & Khái niệm "Bộ não thứ hai"
 ---

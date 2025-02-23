@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Ứng dụng thực tế
+title: 10 - Ứng dụng thực tế
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # Ứng dụng thực tế của "Bộ não thứ hai"
 ---

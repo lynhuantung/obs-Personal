@@ -5,7 +5,7 @@ title: Trích Dẫn The PARA Method
 date: 2025-01-31
 tags:
   - book-quotes
-  - books/the-para-method  
+  - sach/the-para-method  
 ---
 
 # Trích Dẫn

@@ -1,13 +1,13 @@
 ---
 dg-publish: true
 dg-home: false
-title: Giới thiệu
+title: CẤU TRÚC SÁCH "BỘ NÃO THỨ HAI"
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
-## **📖 CẤU TRÚC SÁCH "BỘ NÃO THỨ HAI"**
+## 📖 CẤU TRÚC SÁCH "BỘ NÃO THỨ HAI"
 ---
 ![[Pasted image 20250131134318.png|300]]
 **Tác giả:**  [[Đồ Tử Bái]]
@@ -123,3 +123,5 @@ tags:
 - **Mỗi người cần cá nhân hóa bộ não thứ hai để phù hợp với nhu cầu riêng của mình.**
 - **Hãy bắt đầu hành trình xây dựng bộ não thứ hai ngay hôm nay! 🚀**
 
+---
+Trang tiếp theo: [[0b - Mục lục - Bộ Não Thứ Hai|Mục lục]]

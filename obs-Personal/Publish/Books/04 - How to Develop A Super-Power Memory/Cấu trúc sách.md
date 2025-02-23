@@ -4,8 +4,8 @@ dg-home: false
 title: 
 date: 2025-01-28
 tags:
-  - book
-  - book/How_to_Develop_A_Super_Power_Memory
+  - sach
+  - sach/How_to_Develop_A_Super_Power_Memory
 ---
 # Cấu trúc sách
 ---
@@ -23,4 +23,4 @@ tags:
 │   ├── 🏆 [[Ghi nhớ số và ngày tháng]] → Cách ghi nhớ số điện thoại, số dài, ngày tháng
 │   ├── 🏆 [[Ghi nhớ thông tin trừu tượng]] → Cách ghi nhớ thông tin trừu tượng, ngoại ngữ, bài phát biểu, v.v.
 │   ├── 🏆 [[Các bài tập thực hành]] → Các bài tập thực hành để củng cố kỹ năng ghi nhớ
-├── 🎯 [[11 - Lời kết]] → Tổng kết các phương pháp ghi nhớ và lời khuyên của tác giả
+├── 🎯 [[10 - Lời kết]] → Tổng kết các phương pháp ghi nhớ và lời khuyên của tác giả

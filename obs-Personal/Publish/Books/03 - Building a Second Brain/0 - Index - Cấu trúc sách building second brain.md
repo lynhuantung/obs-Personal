@@ -4,8 +4,8 @@ dg-home: false
 title: Cấu trúc sách
 date: 2025-01-31
 tags:
-  - book
-  - books/building-second-brain
+  - sach
+  - sach/building-second-brain
 ---
 
 # Cấu trúc sách

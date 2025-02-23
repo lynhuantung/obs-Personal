@@ -4,7 +4,7 @@ dg-home: false
 title: Các kỹ thuật nhớ số dài
 date: 2024-08-31
 tags:
-  - "#books"
+  - "#sach"
   - "#memory"
   - "#How_to_Develop_A_Super_Power_Memory"
 Chương: Chương11

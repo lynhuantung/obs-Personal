@@ -4,8 +4,8 @@ dg-home: false
 title: Rút ra kết luận Building a Second Brain
 date: 2025-01-31
 tags:
-  - book
-  - books/building-second-brain
+  - sach
+  - sach/building-second-brain
 ---
 ## Rút ra kết luận Building a Second Brain
 

@@ -4,8 +4,8 @@ dg-home: false
 title: Nguyên Tắc Suy Luận
 date: 2025-01-28
 tags:
-  - book
-  - books/tu-duy-nhu-sherlock-holmes
+  - sach
+  - sach/tu-duy-nhu-sherlock-holmes
   - "#suy-luan"
 ---
 # 🔍 Nguyên Tắc Suy Luận Của Sherlock Holmes

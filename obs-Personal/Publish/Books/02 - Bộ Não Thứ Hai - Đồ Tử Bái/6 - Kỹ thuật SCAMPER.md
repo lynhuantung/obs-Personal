@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Kỹ thuật SCAMPER
+title: 6 - Kỹ thuật SCAMPER
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 ## Kỹ thuật SCAMPER: Công Cụ Sáng Tạo Mạnh Mẽ
 ---

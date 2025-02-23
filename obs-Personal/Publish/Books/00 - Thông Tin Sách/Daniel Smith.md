@@ -3,8 +3,8 @@ author: Daniel Smith
 aliases:
   - D. Smith
 tags:
-  - book
-  - "#author"
+  - sach
+  - "#tac-gia"
 Mô tả: Daniel Smith là tác giả nổi tiếng về sách phát triển bản thân, nổi bật với lối viết súc tích và tinh thần cổ vũ độc giả mở rộng tư duy. Sách của ông thường tập trung vào lãnh đạo, tư duy đổi mới và cách vượt qua giới hạn bản thân.
 website: 
 type: "[[3.Tác giả|Tác giả]]"

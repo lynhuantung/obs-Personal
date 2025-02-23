@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Kết luận
+title: 11 - Lời kết
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # **Hành Trình Khám Phá "Bộ Não Thứ Hai" – Cánh Cửa Dẫn Tới Trí Tuệ Vượt Trội**
 ---

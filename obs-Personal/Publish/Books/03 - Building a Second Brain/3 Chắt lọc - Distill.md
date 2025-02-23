@@ -4,8 +4,8 @@ dg-home: false
 title: Building a Second Brain - Thiết lập bộ não thứ hai
 date: 2025-01-31
 tags:
-  - book
-  - books/building-second-brain
+  - sach
+  - sach/building-second-brain
 ---
 # ✨ Chắt lọc (Distill)
 ---

@@ -4,8 +4,8 @@ dg-home: false
 title: Areas (Lĩnh vực) - The PARA Method
 date: 2025-01-31
 tags:
-  - book
-  - books/the-para-method  
+  - sach
+  - sach/the-para-method  
 ---
 # Areas (Lĩnh vực)
 ---

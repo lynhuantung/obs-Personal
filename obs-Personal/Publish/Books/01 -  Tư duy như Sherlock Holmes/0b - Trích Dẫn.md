@@ -4,8 +4,8 @@ dg-home: false
 title: Trích dẫn
 date: 2025-01-28
 tags:
-  - book
-  - books/tu-duy-nhu-sherlock-holmes
+  - sach
+  - sach/tu-duy-nhu-sherlock-holmes
   - "#trich-dan"
 ---
 # Trích dẫn

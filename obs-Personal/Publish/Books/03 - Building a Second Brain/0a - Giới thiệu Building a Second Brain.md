@@ -4,8 +4,8 @@ dg-home: false
 title: Giới thiệu Building a Second Brain
 date: 2025-01-31
 tags:
-  - book
-  - books/building-second-brain
+  - sach
+  - sach/building-second-brain
 ---
 ## Giới thiệu Building a Second Brain
 ---

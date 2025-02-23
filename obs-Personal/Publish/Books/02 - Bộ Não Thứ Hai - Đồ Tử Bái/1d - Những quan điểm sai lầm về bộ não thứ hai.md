@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Những quan điểm sai lầm về bộ não thứ hai
+title: 1d - Những quan điểm sai lầm về bộ não thứ hai
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 # Những quan điểm sai lầm về bộ não thứ hai
 ---

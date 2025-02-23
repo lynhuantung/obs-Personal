@@ -4,8 +4,8 @@ dg-home: false
 title: Diễn giải 10 bước tư duy như Sherlock Holmes
 date: 2025-02-16
 tags:
-  - book
-  - books/tu-duy-nhu-sherlock-holmes
+  - sach
+  - sach/tu-duy-nhu-sherlock-holmes
   - "#dien-giai"
 ---
 ### **1. Trạng thái tinh thần tốt**

@@ -5,7 +5,7 @@ title: Ứng Dụng The PARA Method
 date: 2025-01-31
 tags:
   - book-application
-  - books/the-para-method  
+  - sach/the-para-method  
 ---
 
 ## Phương pháp PARA: Tổ chức thông tin hiệu quả trong công việc và cuộc sống

@@ -4,7 +4,7 @@ dg-home: false
 title: Khả năng quan sát của bạn nhạy bén đến mức nào
 date: 2024-08-31
 tags:
-  - "#books"
+  - "#sach"
   - "#memory"
   - "#How_to_Develop_A_Super_Power_Memory"
 Chương: Chương1

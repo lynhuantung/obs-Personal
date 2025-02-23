@@ -2,8 +2,8 @@
 author: Đồ Tử Bái
 aliases: 
 tags:
-  - book
-  - "#author"
+  - sach
+  - "#tac-gia"
 website: 
 type: "[[3.Tác giả|Tác giả]]"
 Related: "[[0.Thông tin sách]]"

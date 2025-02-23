@@ -1,11 +1,11 @@
 ---
 dg-publish: true
 dg-home: false
-title: Kỹ thuật Zettelkasten
+title: 7 - Kỹ thuật Zettelkasten
 date: 2025-01-31
 tags:
-  - book
-  - books/bo-nao-thu-hai
+  - sach
+  - sach/bo-nao-thu-hai
 ---
 ## **Kỹ thuật ghi chú Zettelkasten – Hệ thống giúp bạn tư duy sâu sắc và sáng tạo hơn**
 ---

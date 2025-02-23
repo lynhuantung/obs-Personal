@@ -7,3 +7,4 @@ Nam chơi cùng:
 
 Có bạn đã rủ Nam đi chơi: ^869b24
 - [[An]] (mời ăn bánh 🍪)
+#daily/local-graph-view

@@ -4,8 +4,8 @@ dg-home: false
 title: 
 date: 2025-01-31
 tags:
-  - book
-  - books/the-para-method
+  - sach
+  - sach/the-para-method
 ---
 
 ![[Pasted image 20250131082627.png|300]]
