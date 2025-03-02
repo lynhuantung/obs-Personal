@@ -280,5 +280,11 @@
       ],
       "key": "N"
     }
+  ],
+  "smart-random-note:open-random-note-from-search": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
   ]
 }

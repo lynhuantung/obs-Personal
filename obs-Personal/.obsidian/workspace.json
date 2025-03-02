@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Books/01 -  Tư duy như Sherlock Holmes/0b - Trích Dẫn.md",
+                "file": "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0b - Trích Dẫn"
-            }
-          },
-          {
-            "id": "2d1adb61d5cc328b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/6 - Kỹ thuật SCAMPER.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Kỹ thuật SCAMPER"
+              "title": "0.Super-Power Memory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#meeting",
+                "query": "path:\"Publish/Books/04 - How to Develop A Super-Power Memory/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +122,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -158,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/6 - Kỹ thuật SCAMPER.md",
+                "file": "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 6 - Kỹ thuật SCAMPER"
+              "title": "Graph of 0.Super-Power Memory"
             }
           },
           {
@@ -252,13 +237,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0a2 - Tóm tắt.md",
+                "file": "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0a2 - Tóm tắt"
+              "title": "Outline of 0.Super-Power Memory"
+            }
+          },
+          {
+            "id": "287166e300133865",
+            "type": "leaf",
+            "state": {
+              "type": "id-side-panel",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Notes by ID"
             }
           }
         ]
@@ -291,7 +286,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592.5
+    "width": 592.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,40 +308,43 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "zk-prefixer:Create new unique note": false,
       "smart-random-note:Open Random Note from Search": false,
+      "note-id:Open side panel": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "2d1adb61d5cc328b",
+  "active": "59f7eda33519ab0f",
   "lastOpenFiles": [
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/7 - Kỹ thuật Zettelkasten.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/4 - Chương 4 - Hiểu lầm, trở ngại và phương pháp luận.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md",
-    "src/Pasted image 20250223154209.png",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Bản chất con người.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Trung khu thần kinh.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Vô tri.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Tôn giáo.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Thời gian.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Dự đoán.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550/Trung khu thần kinh.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550/Vô tri.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550/Tôn giáo.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550/Thời gian.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550/Dự đoán.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550/Bản chất con người.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/10 - Lời kết.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/9 - Tư duy ngược.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3a - Thuyết sáu cấp độ cách biệt.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/_Ghi chú cá nhân.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/2 - Chương 2 - Xây dựng bộ nhớ kỹ thuật số.md",
-    "Publish/Books/0 - Books.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 23 - Remembering Appointments and Schedules.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 11 - Remembering Long Digit Numbers.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 14 - Remembering Foreign Language Vocabulary.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Review sách - How to Develop A Super-Power Memory.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 4 - Interest in Memory.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Practical Exercises in Observation.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Summary Groups.md",
     "Publish/Books/0a - MOC.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/_Ứng dụng thực tế.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/6 - Kỹ thuật SCAMPER.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1e - Những vấn đề liên quan đến trí nhớ con người.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/1d - Những quan điểm sai lầm về bộ não thứ hai.md",
+    "Publish/Books/03 - Building a Second Brain/5 - Building a Second Brain - Thiết lập bộ não thứ hai.md",
+    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md",
+    "Publish/Books/01 -  Tư duy như Sherlock Holmes/4 - Nguyên Tắc Suy Luận.md",
+    "Publish/Books/01 -  Tư duy như Sherlock Holmes/3 - Kỹ Năng Quan Sát.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Link Method.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 6 - Peg System of Memory.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 25 - Memory Demonstrations.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 3 - Test Your Memory.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 24 - Remembering Anniversaries, Birthdays, and Other Important Dates.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 7 - More about Peg and Link Systems.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 16 - What's in a Name.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 5 - Uses of the Peg and Link Systems.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 27 - Continual Improvement.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 8 - How to Train Your Observation.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/Nhóm 3 - Ứng dụng hệ thống ghi nhớ vào thực tế.md",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/How_to_Develop_A_Super_Power_Memory",
+    "04 - How to Develop A Super-Power Memory",
+    "src/Pasted image 20250223154209.png",
+    "TungLy/0. Daily/obsidian_notes_20250223_153752",
+    "TungLy/0. Daily/obsidian_notes_20250223_153550",
     "src/Pasted image 20250223134557.png",
     "TungLy/0. Daily/obsidian_notes_20250219_225225",
     "src/Pasted image 20250216104707.png",
@@ -358,8 +357,6 @@
     "Publish/Feature",
     "src/Pasted image 20250201083611.png",
     "src/Pasted image 20250201082144.png",
-    "Publish/Local graph view",
-    "Publish/Hoc tieng anh",
     "src/Pasted image 20250131134318.png",
     "src/Pasted image 20250131134009.png",
     "src/Pasted image 20250131093233.png",

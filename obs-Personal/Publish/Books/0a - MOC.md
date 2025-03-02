@@ -9,7 +9,6 @@ title:
 # 📍 Mốc - Tổng hợp tư tưởng từ sách  
 
 ## 🧠 1. Kỹ thuật tối ưu trí nhớ  
-- 📖 [[04 - How to Develop A Super-Power Memory/0b - Mốc - Trí nhớ siêu phàm]]
 - 📖 [[3 - Kỹ Năng Quan Sát#🔍 2. Rèn luyện trí nhớ quan sát]]
 
 ## 🕵️‍♂️ 2. Phương pháp tư duy logic  
