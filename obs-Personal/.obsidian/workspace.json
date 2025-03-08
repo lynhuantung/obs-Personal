@@ -4,22 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "d97219c13c465728",
+        "id": "b7529a819a18d6a7",
         "type": "tabs",
         "children": [
           {
-            "id": "59f7eda33519ab0f",
+            "id": "3c49e0e62e7df6f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
+                "file": "Publish/Books/03 - Building a Second Brain/0 - Index - Cấu trúc sách building second brain.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0.Super-Power Memory"
+              "title": "0 - Index - Cấu trúc sách building second brain"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e15dd7b6fb7cf61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6adbefc336634c3d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Publish/Books/03 - Building a Second Brain/0 - Index - Cấu trúc sách building second brain.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 0 - Index - Cấu trúc sách building second brain"
             }
           }
         ]
@@ -122,8 +165,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -312,8 +354,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "59f7eda33519ab0f",
+  "active": "3c49e0e62e7df6f3",
   "lastOpenFiles": [
+    "Publish/Books/0a - MOC.md",
+    "New folder/DeDọaSanPhamThayThe.md",
+    "New folder/MoHinh_5LucLuong_PhanTich.md",
+    "New folder/QuyenLucThuongLuongKhachHang.md",
+    "New folder/QuyenLucThuongLuongNhaCungCap.md",
+    "New folder/DeDọaDoiThuMoiGiaNhap.md",
+    "New folder/CanhTranhNoiBoNganh.md",
+    "Hướng dẫn sử dụng.md",
+    "New folder",
+    "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 23 - Remembering Appointments and Schedules.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 11 - Remembering Long Digit Numbers.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md",
@@ -322,7 +374,6 @@
     "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 4 - Interest in Memory.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/Practical Exercises in Observation.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/Summary Groups.md",
-    "Publish/Books/0a - MOC.md",
     "Publish/Books/03 - Building a Second Brain/5 - Building a Second Brain - Thiết lập bộ não thứ hai.md",
     "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md",
     "Publish/Books/01 -  Tư duy như Sherlock Holmes/4 - Nguyên Tắc Suy Luận.md",
@@ -332,14 +383,6 @@
     "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 25 - Memory Demonstrations.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 3 - Test Your Memory.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 24 - Remembering Anniversaries, Birthdays, and Other Important Dates.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 7 - More about Peg and Link Systems.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 16 - What's in a Name.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Nhóm 5 - Thực hành và cải thiện trí nhớ.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 5 - Uses of the Peg and Link Systems.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 1 - How Keen Is Your Observation.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 27 - Continual Improvement.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 8 - How to Train Your Observation.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Nhóm 3 - Ứng dụng hệ thống ghi nhớ vào thực tế.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/How_to_Develop_A_Super_Power_Memory",
     "04 - How to Develop A Super-Power Memory",
     "src/Pasted image 20250223154209.png",
@@ -354,7 +397,6 @@
     "TungLy/0. Daily/Clippings/msn.com",
     "TungLy/0. Daily/Clippings",
     "TungLy/0. Daily/Clippings/nodelink.netlify.app",
-    "Publish/Feature",
     "src/Pasted image 20250201083611.png",
     "src/Pasted image 20250201082144.png",
     "src/Pasted image 20250131134318.png",

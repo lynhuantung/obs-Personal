@@ -129,7 +129,7 @@ var GeminiModelSetting = class extends import_obsidian.Modal {
 
 // src/Settings.ts
 var DEFAULT_GEMINI_CONFIGS = {
-  "gemini-pro": {
+  "gemini-2.0-flash": {
     topK: 1,
     topP: 1,
     temperature: 0.9,
@@ -148,28 +148,28 @@ var DEFAULT_GEMINI_CONFIGS = {
 };
 var DEFAULT_SETTINGS = {
   apiKey: "",
-  model: "gemini-pro",
+  model: "gemini-2.0-flash",
   prompts: [
     {
       display: "Ask Gemini (Selection)",
       scope: "SELECTION" /* SELECTION */,
-      model: "gemini-pro",
-      config: DEFAULT_GEMINI_CONFIGS["gemini-pro"],
+      model: "gemini-2.0-flash",
+      config: DEFAULT_GEMINI_CONFIGS["gemini-2.0-flash"],
       prompt: "",
       type: "generative"
     },
     {
       display: "Ask Gemini (Document)",
       scope: "DOCUMENT" /* DOCUMENT */,
-      model: "gemini-pro",
-      config: DEFAULT_GEMINI_CONFIGS["gemini-pro"],
+      model: "gemini-2.0-flash",
+      config: DEFAULT_GEMINI_CONFIGS["gemini-2.0-flash"],
       prompt: "",
       type: "generative"
     }
   ],
   chat: {
-    model: "gemini-pro",
-    config: DEFAULT_GEMINI_CONFIGS["gemini-pro"],
+    model: "gemini-2.0-flash",
+    config: DEFAULT_GEMINI_CONFIGS["gemini-2.0-flash"],
     type: "chat"
   },
   saftyThreshold: "HARM_BLOCK_THRESHOLD_UNSPECIFIED"
@@ -231,8 +231,8 @@ var GeminiSettings = class extends import_obsidian2.PluginSettingTab {
         let prompt2 = {
           display: "Custom Prompt",
           scope: "SELECTION" /* SELECTION */,
-          model: "gemini-pro",
-          config: DEFAULT_GEMINI_CONFIGS["gemini-pro"],
+          model: "gemini-2.0-flash",
+          config: DEFAULT_GEMINI_CONFIGS["gemini-2.0-flash"],
           prompt: "",
           type: "generative"
         };
@@ -2760,10 +2760,10 @@ function instance3($$self, $$props, $$invalidate) {
   let { app } = $$props;
   let container;
   let history = [];
-  let chat = gemini.startChat("gemini-pro");
+  let chat = gemini.startChat("gemini-2.0-flash");
   const clear = () => {
     var _a;
-    chat = gemini.startChat("gemini-pro");
+    chat = gemini.startChat("gemini-2.0-flash");
     (_a = container === null || container === void 0 ? void 0 : container.firstElementChild) === null || _a === void 0 ? void 0 : _a.empty();
     $$invalidate(1, history = []);
   };
