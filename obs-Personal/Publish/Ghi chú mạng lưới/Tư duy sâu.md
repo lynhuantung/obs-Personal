@@ -76,7 +76,7 @@ summary: Ghi chú về vai trò của trái cây trong việc cung cấp vitamin
 
 ---
 
-#### **5. Tư duy nguyên bản từ  [[Infranodus và graph view]]**
+#### **5. Tư duy nguyên bản từ  [[InfraNodus#^961668|So sánh Infranodus và graph view]]**
 
 - **Kỹ thuật áp dụng:**
     

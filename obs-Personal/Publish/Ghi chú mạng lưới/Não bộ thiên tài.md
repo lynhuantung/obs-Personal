@@ -10,7 +10,7 @@ dg-home: false
 ### 1. Não Bộ của Thiên Tài:
 Não bộ của các thiên tài, như Albert Einstein, Leonardo da Vinci, thường được mô tả với khả năng kết nối và xử lý thông tin một cách vượt trội. Điều này không chỉ nằm ở dung lượng trí nhớ mà còn ở cách họ liên kết các thông tin với nhau. Họ có khả năng tạo ra các liên kết bất ngờ, vượt qua những khuôn khổ thông thường, nhờ đó có thể phát hiện ra những khái niệm mới mẻ từ các mối liên hệ tưởng chừng như không liên quan.
 
-### 2. Thuyết Lan Truyền Kích Hoạt ([[Spread activation theory]]):
+### 2. Thuyết Lan Truyền Kích Hoạt ([[0. Thuyết Lan Truyền Kích Hoạt]]):
 Thuyết lan truyền kích hoạt giải thích rằng khi một khái niệm trong bộ nhớ được kích hoạt, nó sẽ lan truyền đến các khái niệm liên quan khác, tạo ra một mạng lưới kích hoạt. Ví dụ, khi bạn nghĩ về "xe hơi", các khái niệm liên quan như "bánh xe", "động cơ", hoặc "đường cao tốc" cũng có thể được kích hoạt. Điều này giúp bạn dễ dàng liên tưởng và tìm kiếm thông tin liên quan từ bộ nhớ.
 
 ### 3. Nội dung trong tài liệu “How to Develop A Super-Power Memory”:
@@ -32,5 +32,4 @@ Tóm lại, mối liên hệ giữa não bộ thiên tài, thuyết lan truyền
 
 
 # Liên kết
-[[Xây dựng bộ não thứ hai]]
-[[Infranodus và graph view]]
+[[InfraNodus#^961668|So sánh Infranodus và graph view]]

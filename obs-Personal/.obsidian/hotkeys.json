@@ -286,5 +286,17 @@
       "modifiers": [],
       "key": "F3"
     }
+  ],
+  "random-note": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "smart-random-note:open-random-note": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
   ]
 }

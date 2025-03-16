@@ -17,3 +17,5 @@ tags:
 - Building a Second Brain : [[5 - Building a Second Brain - Thiết lập bộ não thứ hai]]
 
 - Bộ não thứ hai - tương lai của sự kết hợp giữa não bộ và công nghệ: [[0 - Bìa sách - Bộ Não Thứ Hai]]
+
+- Sự thật về chiến lược cạnh tranh: [[00 Index Cau Truc Sach]]

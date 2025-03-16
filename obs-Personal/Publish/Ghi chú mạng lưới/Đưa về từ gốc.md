@@ -2,7 +2,7 @@
 dg-publish: true
 dg-home: false
 ---
-# Lemmatization
+# Lemmatization - Đưa về từ gốc
 ---
 ### Lemmatization là gì?
 Lemmatization là một kỹ thuật quan trọng trong xử lý ngôn ngữ tự nhiên (NLP) nhằm đưa các từ về dạng gốc của chúng (còn gọi là lemma hoặc citation form). Nói cách khác, lemmatization giúp chúng ta xác định dạng cơ bản, từ điển của một từ, bất kể từ đó đang ở dạng biến thể nào (số ít, số nhiều, quá khứ, hiện tại, v.v.).
@@ -22,3 +22,6 @@ Lemmatization thường được thực hiện bằng cách sử dụng các cô
  * Học máy: Sử dụng các mô hình học máy để dự đoán dạng gốc của từ dựa trên ngữ cảnh
 Lưu ý: Lemmatization có thể phức tạp hơn stemming (một kỹ thuật khác cũng nhằm đưa từ về dạng gốc), vì lemmatization đòi hỏi hiểu biết về ngữ nghĩa và ngữ pháp của ngôn ngữ.
 Nếu bạn muốn tìm hiểu thêm về lemmatization hoặc các kỹ thuật NLP khác, đừng ngần ngại đặt câu hỏi nhé!
+
+
+Lemmatization đưa từ về dạng gốc giúp khám phá mạng lưới Infranodus dễ dàng.

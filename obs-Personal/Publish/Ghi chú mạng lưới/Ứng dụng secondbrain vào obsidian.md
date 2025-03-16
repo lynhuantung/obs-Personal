@@ -2,8 +2,10 @@
 dg-publish: true
 dg-home: false
 ---
+dựa vào nội dung bên dưới, hãy giúp đặt tên tiêu đề đúng:
 # Ứng dụng secondbrain vào obsidian
 ---
+Bộ não thứ hai" là một cách gọi cho hệ thống ghi chú và quản lý thông tin cá nhân, giúp bạn lưu trữ, sắp xếp và sử dụng lại kiến thức một cách hiệu quả. Obsidian là một ứng dụng rất tốt để xây dựng "bộ não thứ hai" này
 
 ### Ứng Dụng Các Phương Pháp Vào Obsidian
 
@@ -49,9 +51,8 @@ dg-home: false
 
 Áp dụng các phương pháp này vào Obsidian sẽ giúp bạn xây dựng bộ não thứ hai hiệu quả hơn, giúp bạn ghi nhớ thông tin, sáng tạo và quản lý công việc tốt hơn. Bạn có thể bắt đầu từ từ và điều chỉnh theo cách làm việc của mình để đạt được hiệu quả cao nhất. 
 
-
-
-
-
-
- 
+# Liên kết:
+[[Ứng dụng secondbrain vào obsidian]]
+[[Não bộ thiên tài]]
+[[0. Thuyết Lan Truyền Kích Hoạt]]
+[[3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn]]

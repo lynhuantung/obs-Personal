@@ -15,7 +15,7 @@ Thuyết Lan Truyền Kích Hoạt (Spread Activation Theory) là một lý thuy
    - Khi một khái niệm trong mạng lưới được kích hoạt (ví dụ như bạn nhìn thấy hoặc nghe thấy một từ cụ thể), sự kích hoạt này sẽ lan truyền đến các khái niệm liên quan khác trong mạng lưới.
    - Cường độ của sự lan truyền phụ thuộc vào mức độ liên kết giữa các khái niệm. Khái niệm nào có liên kết mạnh hơn với khái niệm được kích hoạt ban đầu sẽ nhận được nhiều kích hoạt hơn và ngược lại.
 
-3. ** [[Ngưỡng kích hoạt|Ngưỡng kích hoạt (Activation Threshold)]] **:
+1. ** Ngưỡng kích hoạt **:
    - Mỗi khái niệm có một mức ngưỡng cần đạt để được kích hoạt. Nếu một khái niệm nhận đủ lượng kích hoạt từ các khái niệm khác trong mạng lưới, nó sẽ được kích hoạt và trở nên có ý nghĩa trong quá trình xử lý thông tin.
    - Những khái niệm không đủ kích hoạt sẽ không được nhận diện hoặc đưa ra trong trí nhớ hiện tại.
 

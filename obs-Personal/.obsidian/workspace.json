@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b7529a819a18d6a7",
+        "id": "0f5a48c4f5b3b7fa",
         "type": "tabs",
         "children": [
           {
-            "id": "3c49e0e62e7df6f3",
+            "id": "9f5f9324570c6911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Books/03 - Building a Second Brain/0 - Index - Cấu trúc sách building second brain.md",
+                "file": "Publish/Ghi chú mạng lưới/InfraNodus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0 - Index - Cấu trúc sách building second brain"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6e15dd7b6fb7cf61",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6adbefc336634c3d",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Publish/Books/03 - Building a Second Brain/0 - Index - Cấu trúc sách building second brain.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 0 - Index - Cấu trúc sách building second brain"
+              "title": "InfraNodus"
             }
           }
         ]
@@ -97,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Publish/Books/04 - How to Develop A Super-Power Memory/\" ",
+                "query": "cấp độ cách",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,11 +142,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
+                "file": "Publish/Ghi chú mạng lưới/InfraNodus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -202,18 +159,18 @@
                   "showArrow": true,
                   "textFadeMultiplier": -0.2,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "lineSizeMultiplier": 0.993229166666667,
                   "collapse-forces": false,
                   "centerStrength": 0.515625,
-                  "repelStrength": 2.5,
+                  "repelStrength": 10,
                   "linkStrength": 0.385416666666667,
                   "linkDistance": 348,
-                  "scale": 1.000000000000004,
+                  "scale": 0.7132754626224449,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0.Super-Power Memory"
+              "title": "Graph of InfraNodus"
             }
           },
           {
@@ -354,54 +311,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3c49e0e62e7df6f3",
+  "active": "9f5f9324570c6911",
   "lastOpenFiles": [
-    "Publish/Books/0a - MOC.md",
-    "New folder/DeDọaSanPhamThayThe.md",
-    "New folder/MoHinh_5LucLuong_PhanTich.md",
-    "New folder/QuyenLucThuongLuongKhachHang.md",
-    "New folder/QuyenLucThuongLuongNhaCungCap.md",
-    "New folder/DeDọaDoiThuMoiGiaNhap.md",
-    "New folder/CanhTranhNoiBoNganh.md",
-    "Hướng dẫn sử dụng.md",
+    "Publish/Ghi chú mạng lưới/InfraNodus.md",
+    "Publish/Ghi chú mạng lưới/lan truyền kích hoạt.md",
+    "Publish/Hệ sinh thái ao cá/Nước.md",
+    "Publish/Hệ sinh thái ao cá/Côn trùng.md",
+    "Publish/Hệ sinh thái ao cá/Cây cỏ trong ao.md",
+    "Publish/Hệ sinh thái ao cá/Cá trong ao.md",
+    "Publish/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
+    "Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
+    "Publish/Ghi chú mạng lưới/Đưa về từ gốc.md",
+    "Publish/Ghi chú mạng lưới/Leonardo da Vinci.md",
+    "Publish/Ghi chú mạng lưới/ví dụ Infranodus.md",
+    "Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
+    "Publish/Ghi chú mạng lưới/Tư duy sâu.md",
+    "Publish/Feature/Các ghi chú.md",
+    "Publish/Feature/AllFeature.md",
+    "TungLy/0. Daily/obsidian_notes_20250223_153752/Vô tri.md",
+    "TungLy/0. Daily/obsidian_notes_20250223_153752/Trung khu thần kinh.md",
+    "TungLy/0. Daily/obsidian_notes_20250223_153752/Tôn giáo.md",
+    "TungLy/0. Daily/obsidian_notes_20250223_153752/Thời gian.md",
+    "TungLy/0. Daily/obsidian_notes_20250223_153752/Dự đoán.md",
+    "TungLy/0. Daily/obsidian_notes_20250223_153752/Bản chất con người.md",
+    "Publish/Ghi chú mạng lưới/Quả Táo/1.Quả Táo.md",
+    "Publish/Ghi chú mạng lưới/Quả Táo/Các Giống Táo.md",
+    "Publish/Ghi chú mạng lưới/Quả Táo/Dinh Dưỡng Của Quả Táo.md",
+    "Publish/Ghi chú mạng lưới/Quả Táo/Táo Trong Công Nghệ.md",
+    "Publish/Ghi chú mạng lưới/Quả Táo/Táo Trong Thần Thoại.md",
+    "Học hỏi/Não bộ tổng quan",
+    "Học hỏi",
+    "src/Pasted image 20250316085451.png",
+    "src/Pasted image 20250316084207.png",
+    "Publish/Ghi chú mạng lưới/obsidian_notes_20250316_083948",
+    "src/Pasted image 20250316083434.png",
+    "Publish/Ghi chú mạng lưới/obsidian_notes_20250316_082601",
+    "src/Pasted image 20250309105405.png",
+    "src/Pasted image 20250309095439.png",
+    "Publish/Books/06 - Sự thật về chiến lược cạnh tranh",
+    "src/Pasted image 20250309081648.png",
+    "src/Pasted image 20250309075622.png",
     "New folder",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 23 - Remembering Appointments and Schedules.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 11 - Remembering Long Digit Numbers.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 13 - Remembering Dates.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 14 - Remembering Foreign Language Vocabulary.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Review sách - How to Develop A Super-Power Memory.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 4 - Interest in Memory.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Practical Exercises in Observation.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Summary Groups.md",
-    "Publish/Books/03 - Building a Second Brain/5 - Building a Second Brain - Thiết lập bộ não thứ hai.md",
-    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/3 - Chương 3 -Sáng tạo các điểm tư duy cấp cao hơn.md",
-    "Publish/Books/01 -  Tư duy như Sherlock Holmes/4 - Nguyên Tắc Suy Luận.md",
-    "Publish/Books/01 -  Tư duy như Sherlock Holmes/3 - Kỹ Năng Quan Sát.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Link Method.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 6 - Peg System of Memory.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 25 - Memory Demonstrations.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 3 - Test Your Memory.md",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/Chapter 24 - Remembering Anniversaries, Birthdays, and Other Important Dates.md",
     "Publish/Books/04 - How to Develop A Super-Power Memory/How_to_Develop_A_Super_Power_Memory",
     "04 - How to Develop A Super-Power Memory",
     "src/Pasted image 20250223154209.png",
     "TungLy/0. Daily/obsidian_notes_20250223_153752",
     "TungLy/0. Daily/obsidian_notes_20250223_153550",
     "src/Pasted image 20250223134557.png",
-    "TungLy/0. Daily/obsidian_notes_20250219_225225",
     "src/Pasted image 20250216104707.png",
-    "src/Pasted image 20250216104004.png",
-    "TungLy/3. ARCHIEVED/Thuế",
-    "src/Pasted image 20250209084323.png",
-    "TungLy/0. Daily/Clippings/msn.com",
-    "TungLy/0. Daily/Clippings",
-    "TungLy/0. Daily/Clippings/nodelink.netlify.app",
-    "src/Pasted image 20250201083611.png",
-    "src/Pasted image 20250201082144.png",
-    "src/Pasted image 20250131134318.png",
-    "src/Pasted image 20250131134009.png",
-    "src/Pasted image 20250131093233.png",
     "Untitled.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",

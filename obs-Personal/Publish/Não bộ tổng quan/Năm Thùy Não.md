@@ -13,5 +13,4 @@ Vỏ não người chia làm 5 thuỳ chính, mỗi thuỳ đảm nhận chức 
 - [[Thùy thái dương|Thùy thái dương]] (Temporal): Ngôn ngữ, trí nhớ, xử lý âm thanh.
 - [[Thùy chẩm|Thùy Chẩm]] (Occipital): Thị giác.
 
-Sự phối hợp nhịp nhàng giữa các thuỳ não góp phần nâng cao [[AFRC]].
 

@@ -9,10 +9,10 @@ tags:
 ---
 
 ## Ý tưởng chính của thuyết sáu cấp độ cách biệt là:  
-Mọi người trên thế giới chỉ cần qua tối đa 6 người trung gian (cấp độ) là có thể kết nối với nhau. Nghĩa là, dù bạn đang ở đâu, bạn chỉ cần "nhảy" qua 6 người bạn – hoặc người quen của người quen – là có thể gặp được bất cứ ai!
+Bất kỳ ai trên thế giới này cũng có thể được kết nối với bất kỳ người nào khác chỉ thông qua 6 mối quan hệ trung gian. Nghĩa là, dù bạn đang ở đâu, bạn chỉ cần "nhảy" qua 6 người bạn – hoặc người quen của người quen – là có thể gặp được bất cứ ai!
 
 ---
-
+![[Pasted image 20250309081648.png]]
 **Giải thích qua ví dụ:**
 
 - **Bậc 1:** Em có một người bạn thân, gọi là An.

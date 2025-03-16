@@ -31,7 +31,7 @@ Chương này bao gồm **4 phần chính**:
 📌 **Khái niệm:**
 
 - Bộ não sinh học của con người hoạt động theo **mạng lưới thần kinh**, trong đó **các nơ-ron kết nối với nhau** để tạo ra suy nghĩ và ý tưởng.
-- Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[lan truyền kích hoạt]]
+- Tương tự, bộ não thứ hai cần **xây dựng một hệ thống ghi chú được kết nối chặt chẽ**, giúp kích hoạt tư duy theo kiểu **lan truyền kích hoạt (Spread Activation Theory)**. [[0. Thuyết Lan Truyền Kích Hoạt]]
 - <span style="background:rgba(240, 200, 0, 0.2)">Như chúng ta đã đề cập trước đó, các khối thông tin được kết nối và liên kết với nhau thông qua các thẻ. Các thẻ là khớp thần kinh của các noron trong bộ não thứ hai. Giống như một cái móc, chúng liên kết các khối thông tin khác, các khối thông tin có cùng thẻ sẽ được tự động phân loại và hội tụ để tạo thành một vùng phản xạ(tức là xác định một trang)</span>
 
 📌 **Cách thực hiện:**  
