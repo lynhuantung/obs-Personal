@@ -8,6 +8,11 @@
       "icon": "lucide-git-fork"
     },
     {
+      "id": "edge-tts:read-note-aloud",
+      "name": "Edge TTS: Read note aloud",
+      "icon": "speaker"
+    },
+    {
       "id": "editing-toolbar:editor-undo",
       "name": "undo editor",
       "icon": "undo-glyph"
@@ -290,7 +295,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 610,
+  "cMenuWidth": 662,
   "cMenuFontColor": "#dbeef3",
   "cMenuBackgroundColor": "rgba(240, 200, 0, 0.2)",
   "autohide": false,

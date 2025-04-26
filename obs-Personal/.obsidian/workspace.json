@@ -13,56 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Publish/Hệ sinh thái ao cá-merged.md",
+                "file": "TungLy/0. Daily/Local graph view/0 - Nam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hệ sinh thái ao cá-merged"
-            }
-          }
-        ]
-      },
-      {
-        "id": "80842eba13503c00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b2141a563861f83",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Publish/Hệ sinh thái ao cá-merged.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Hệ sinh thái ao cá-merged"
+              "title": "0 - Nam"
             }
           }
         ]
@@ -84,7 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -261,7 +218,8 @@
               "title": "Notes by ID"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "bbad2d4043751d61",
@@ -291,8 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592.5,
-    "collapsed": true
+    "width": 592.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,20 +271,38 @@
       "zk-prefixer:Create new unique note": false,
       "smart-random-note:Open Random Note from Search": false,
       "note-id:Open side panel": false,
+      "edge-tts:Read note aloud": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "9f5f9324570c6911",
   "lastOpenFiles": [
+    "TungLy/0. Daily/Local graph view/0 - Nam.md",
+    "TungLy/0. Daily/Clippings/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten 1.md",
+    "TungLy/0. Daily/2025-Apr-14/2025-04-06 120000.md",
+    "TungLy/0. Daily/2025-Apr-14",
+    "src/Pasted image 20250406131202.png",
+    "src/Pasted image 20250406131149.png",
+    "src/Pasted image 20250406131129.png",
+    "src/Pasted image 20250406131117.png",
+    "TungLy/0. Daily/Clippings/Zettelkasten.md",
+    "TungLy/0. Daily/Clippings/{{domain}/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten.md",
+    "TungLy/0. Daily/Clippings/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten.md",
+    "TungLy/0. Daily/Clippings/{{domain}",
+    "TungLy/0. Daily/Clippings/test/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten.md",
+    "TungLy/0. Daily/Clippings/test",
+    "TungLy/0. Daily/Clippings",
+    "Publish/Hệ sinh thái ao cá/Cây cỏ trong ao.md",
+    "TungLy/3. ARCHIEVED/Thuế/Hướng dẫn sử dụng khai thuế.md",
+    "TungLy/3. ARCHIEVED/Thuế/0 - Index.md",
+    "Publish/Ghi chú mạng lưới/lan truyền kích hoạt.md",
     "Publish/Hệ sinh thái ao cá/Cá trong ao.md",
     "Publish/Hệ sinh thái ao cá-merged.md",
     "Publish/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
     "Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
     "Publish/Ghi chú mạng lưới/InfraNodus.md",
-    "Publish/Ghi chú mạng lưới/lan truyền kích hoạt.md",
     "Publish/Hệ sinh thái ao cá/Nước.md",
     "Publish/Hệ sinh thái ao cá/Côn trùng.md",
-    "Publish/Hệ sinh thái ao cá/Cây cỏ trong ao.md",
     "Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
     "Publish/Ghi chú mạng lưới/Đưa về từ gốc.md",
     "Publish/Ghi chú mạng lưới/Leonardo da Vinci.md",
@@ -336,15 +311,6 @@
     "Publish/Feature/Các ghi chú.md",
     "Publish/Feature/AllFeature.md",
     "TungLy/0. Daily/obsidian_notes_20250223_153752/Vô tri.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Trung khu thần kinh.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Tôn giáo.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Thời gian.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Dự đoán.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Bản chất con người.md",
-    "Publish/Ghi chú mạng lưới/Quả Táo/1.Quả Táo.md",
-    "Publish/Ghi chú mạng lưới/Quả Táo/Các Giống Táo.md",
-    "Publish/Ghi chú mạng lưới/Quả Táo/Dinh Dưỡng Của Quả Táo.md",
-    "Publish/Ghi chú mạng lưới/Quả Táo/Táo Trong Công Nghệ.md",
     "Học hỏi/Não bộ tổng quan",
     "Học hỏi",
     "src/Pasted image 20250316085451.png",
@@ -356,15 +322,7 @@
     "src/Pasted image 20250309095439.png",
     "Publish/Books/06 - Sự thật về chiến lược cạnh tranh",
     "src/Pasted image 20250309081648.png",
-    "src/Pasted image 20250309075622.png",
     "New folder",
-    "Publish/Books/04 - How to Develop A Super-Power Memory/How_to_Develop_A_Super_Power_Memory",
-    "04 - How to Develop A Super-Power Memory",
-    "src/Pasted image 20250223154209.png",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752",
-    "TungLy/0. Daily/obsidian_notes_20250223_153550",
-    "src/Pasted image 20250223134557.png",
-    "src/Pasted image 20250216104707.png",
     "Untitled.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",
