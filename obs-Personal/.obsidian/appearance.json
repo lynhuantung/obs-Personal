@@ -7,5 +7,6 @@
     "obsidian_folder_tag_theme"
   ],
   "theme": "moonstone",
-  "accentColor": "#e4445c"
+  "accentColor": "#e4445c",
+  "showRibbon": true
 }

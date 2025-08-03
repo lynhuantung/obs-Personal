@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f5f9324570c6911",
+            "id": "cf6930b66987ec8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TungLy/0. Daily/Local graph view/0 - Nam.md",
+                "file": "Publish/Phương pháp Feynman/6-7 Kết nối Feynman và Zettelkasten.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0 - Nam"
+              "title": "6-7 Kết nối Feynman và Zettelkasten"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cấp độ cách",
+                "query": "[\"format\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,6 +121,16 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "02ee9a8504b3f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
           }
         ]
       }
@@ -185,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/0a2 - Tóm tắt.md",
+                "file": "Publish/Feature/Simple-Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0a2 - Tóm tắt"
+              "title": "Outgoing links from Simple-Page"
             }
           },
           {
@@ -199,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Publish/Books/04 - How to Develop A Super-Power Memory/0.Super-Power Memory.md",
+                "file": "Publish/Feature/Simple-Page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0.Super-Power Memory"
+              "title": "Outline of Simple-Page"
             }
           },
           {
@@ -217,9 +227,18 @@
               "icon": "file-digit",
               "title": "Notes by ID"
             }
+          },
+          {
+            "id": "f6ed074d4f1bd8fb",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "bbad2d4043751d61",
@@ -234,25 +253,17 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "eab1fec0e741d7e2",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {},
-              "icon": "clock",
-              "title": "Reminders"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 592.5
+    "width": 592.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "3d-graph:3D Graph": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
@@ -272,57 +283,58 @@
       "smart-random-note:Open Random Note from Search": false,
       "note-id:Open side panel": false,
       "edge-tts:Read note aloud": false,
+      "glasp:Import Glasp highlights": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "9f5f9324570c6911",
+  "active": "cf6930b66987ec8c",
   "lastOpenFiles": [
-    "TungLy/0. Daily/Local graph view/0 - Nam.md",
-    "TungLy/0. Daily/Clippings/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten 1.md",
+    "Publish/Phương pháp Feynman/6-1 Phương pháp Feynman là gì.md",
+    "Publish/Phương pháp Feynman/6-7 Kết nối Feynman và Zettelkasten.md",
+    "Publish/Phương pháp Feynman/6-6 Lặp lại và ghi nhớ lâu dài.md",
+    "Publish/Phương pháp Feynman/6-5 Bước 4 Viết lại cho rõ hơn.md",
+    "Publish/Phương pháp Feynman/6-4 Bước 3 Nhận ra lỗ hổng hiểu biết.md",
+    "Publish/Phương pháp Feynman/6-3 Bước 2 Giải thích bằng ngôn ngữ đơn giản.md",
+    "Publish/Phương pháp Feynman/6-2a Chọn chủ đề từ điều mình chưa hiểu rõ.md",
+    "Publish/Phương pháp Feynman/6-2 Bước 1 Chọn một chủ đề rõ ràng.md",
+    "Publish/Ghi chú mạng lưới/ví dụ Infranodus.md",
+    "Publish/Books/02 - Bộ Não Thứ Hai - Đồ Tử Bái/6 - Kỹ thuật SCAMPER.md",
+    "Publish/Phương pháp Feynman",
+    "TungLy/2. RESOURCE/template/New notes.md",
     "TungLy/0. Daily/2025-Apr-14/2025-04-06 120000.md",
+    "Publish/Books/05 - The PARA Method/0b - Tóm Tắt.md",
+    "Publish/Books/05 - The PARA Method/0 - Index - Cấu trúc sách.md",
+    "Publish/Books/05 - The PARA Method/1 - The PARA Method.md",
+    "Publish/Books/00 - Thông Tin Sách/Tiago Forte.md",
+    "TungLy/0. Daily/Clippings/Clippings-Google NotebookLM  Note Taking & Research Assistant Powered by AI.md",
+    "TungLy/0. Daily/Clippings/Google NotebookLM  Note Taking & Research Assistant Powered by AI.md",
+    "TungLy/0. Daily/Clippings/Ông Trump điều 2.000 lính Vệ binh Quốc gia đối phó biểu tình ở California.md",
+    "TungLy/0. Daily/Clippings/Ông Trump cảnh báo Elon Musk về 'hậu quả nghiêm trọng'.md",
+    "TungLy/0. Daily/Clippings/Untitled.md",
+    "TungLy/0. Daily/Clippings/Sharpen your thinking.md",
+    "TungLy/0. Daily/Clippings/Clippings-Elon Musk phủ nhận dùng ma túy trong chiến dịch của ông Trump.md",
+    "TungLy/0. Daily/Clippings/Clippings-Ông Trump cảnh báo Elon Musk về 'hậu quả nghiêm trọng'.md",
+    "TungLy/0. Daily/Clippings/Clippings-Lưu trữ chat theo Zettelkasten.md",
+    "TungLy/0. Daily/Clippings/Welcome to Glasp  Glasp.md",
+    "Publish/Hệ sinh thái ao cá/Hệ sinh thái tài chính gia đình",
+    "Publish/Hệ sinh thái ao cá/Hệ sinh thái kiếm tiền",
+    "Publish/Hệ sinh thái ao cá/Hệ sinh thái về tiền",
+    "TungLy/0. Daily/Clippings",
+    "TungLy/0. Daily/Clippings/youtube.com",
+    "Clippings",
     "TungLy/0. Daily/2025-Apr-14",
     "src/Pasted image 20250406131202.png",
     "src/Pasted image 20250406131149.png",
     "src/Pasted image 20250406131129.png",
     "src/Pasted image 20250406131117.png",
-    "TungLy/0. Daily/Clippings/Zettelkasten.md",
-    "TungLy/0. Daily/Clippings/{{domain}/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten.md",
-    "TungLy/0. Daily/Clippings/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten.md",
     "TungLy/0. Daily/Clippings/{{domain}",
-    "TungLy/0. Daily/Clippings/test/Clippings-Ghi chú với phương pháp hộp gỗ Zettelkasten.md",
     "TungLy/0. Daily/Clippings/test",
-    "TungLy/0. Daily/Clippings",
-    "Publish/Hệ sinh thái ao cá/Cây cỏ trong ao.md",
-    "TungLy/3. ARCHIEVED/Thuế/Hướng dẫn sử dụng khai thuế.md",
-    "TungLy/3. ARCHIEVED/Thuế/0 - Index.md",
-    "Publish/Ghi chú mạng lưới/lan truyền kích hoạt.md",
-    "Publish/Hệ sinh thái ao cá/Cá trong ao.md",
-    "Publish/Hệ sinh thái ao cá-merged.md",
-    "Publish/Hệ sinh thái ao cá/Ánh sáng mặt trời.md",
-    "Publish/Ghi chú mạng lưới/Ứng dụng secondbrain vào obsidian.md",
-    "Publish/Ghi chú mạng lưới/InfraNodus.md",
-    "Publish/Hệ sinh thái ao cá/Nước.md",
-    "Publish/Hệ sinh thái ao cá/Côn trùng.md",
-    "Publish/Hệ sinh thái ao cá/0. Hệ sinh thái ao cá.md",
-    "Publish/Ghi chú mạng lưới/Đưa về từ gốc.md",
-    "Publish/Ghi chú mạng lưới/Leonardo da Vinci.md",
-    "Publish/Ghi chú mạng lưới/ví dụ Infranodus.md",
-    "Publish/Ghi chú mạng lưới/Tư duy sâu.md",
-    "Publish/Feature/Các ghi chú.md",
-    "Publish/Feature/AllFeature.md",
-    "TungLy/0. Daily/obsidian_notes_20250223_153752/Vô tri.md",
-    "Học hỏi/Não bộ tổng quan",
-    "Học hỏi",
     "src/Pasted image 20250316085451.png",
     "src/Pasted image 20250316084207.png",
-    "Publish/Ghi chú mạng lưới/obsidian_notes_20250316_083948",
     "src/Pasted image 20250316083434.png",
-    "Publish/Ghi chú mạng lưới/obsidian_notes_20250316_082601",
     "src/Pasted image 20250309105405.png",
     "src/Pasted image 20250309095439.png",
-    "Publish/Books/06 - Sự thật về chiến lược cạnh tranh",
     "src/Pasted image 20250309081648.png",
-    "New folder",
     "Untitled.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Plan.canvas",
     "TungLy/4. VISUAL NOTES/Canvas/Kế Hoạch Chuẩn Hóa Tài Liệu.canvas",

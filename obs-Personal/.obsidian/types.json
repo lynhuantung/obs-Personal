@@ -10,6 +10,7 @@
     "public": "checkbox",
     "Liên kết": "multitext",
     "dg-show-local-graph": "text",
-    "dg-hide-links": "checkbox"
+    "dg-hide-links": "checkbox",
+    "Liên quan": "multitext"
   }
 }
