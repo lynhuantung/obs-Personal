@@ -263,6 +263,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "workspaces:Manage workspace layouts": false,
       "3d-graph:3D Graph": false,
       "publish:Publish changes...": false,
@@ -287,10 +288,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf6930b66987ec8c",
+  "active": "91ea0f5f7cc6bb54",
   "lastOpenFiles": [
-    "Publish/Phương pháp Feynman/6-1 Phương pháp Feynman là gì.md",
     "Publish/Phương pháp Feynman/6-7 Kết nối Feynman và Zettelkasten.md",
+    "Publish/Phương pháp Feynman/6-1 Phương pháp Feynman là gì.md",
     "Publish/Phương pháp Feynman/6-6 Lặp lại và ghi nhớ lâu dài.md",
     "Publish/Phương pháp Feynman/6-5 Bước 4 Viết lại cho rõ hơn.md",
     "Publish/Phương pháp Feynman/6-4 Bước 3 Nhận ra lỗ hổng hiểu biết.md",
