@@ -7,9 +7,9 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "link",
   "highDPIDiagrams": true,
-  "pandoc": null,
+  "pandoc": "C:\\Program Files\\Pandoc\\pandoc.exe",
   "pdflatex": null,
-  "outputFolder": null,
+  "outputFolder": "C:\\Users\\admin\\Downloads",
   "extraArguments": "",
   "exportFrom": "html"
 }

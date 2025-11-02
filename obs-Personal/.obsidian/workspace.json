@@ -285,8 +285,7 @@
       "smart-random-note:Open Random Note from Search": false,
       "note-id:Open side panel": false,
       "edge-tts:Read note aloud": false,
-      "glasp:Import Glasp highlights": false,
-      "periodic-notes:Open today": false
+      "glasp:Import Glasp highlights": false
     }
   },
   "active": "cf6930b66987ec8c",
